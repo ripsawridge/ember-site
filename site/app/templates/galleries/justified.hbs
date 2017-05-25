@@ -1,0 +1,24 @@
+<div class="galleries-justified">
+    <div class="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h1>Justified Gallery</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="justified-container">
+                    {{#justified-gallery}}
+                      {{#each images as |image|}}
+                        <img src="{{image.src}}" style="max-width: 200px; margin: 10px;">
+                     {{/each}}
+                    {{/justified-gallery}}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

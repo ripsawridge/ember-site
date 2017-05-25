@@ -1,0 +1,38 @@
+.theme-actions-banner {
+    &.dark {
+        .bg-black;
+        h1 { .font-white; }
+        p { .font-light-silver; }
+    }
+    &.light {
+        .bg-white;
+        p { .font-gray; }
+    }
+    min-height: 200px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    .content {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        > div {
+            flex: 1 1 70%;
+            margin-right: 15px;
+        }
+        button {
+            flex: 1 1 200px;
+            height: 60px;
+            margin-top: auto;
+            margin-bottom: auto;
+            background-color: green;
+            color: white;
+            border: 0px;
+            font-size: 1.62em;
+            outline: none;
+        }
+        button:active {
+            background-color: orange;
+            outline: none;
+        }
+    }
+}

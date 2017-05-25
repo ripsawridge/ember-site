@@ -1,0 +1,25 @@
+<div class="philosophy">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-9">
+                <img class="im" src="images/cover/philosophy-cover.jpg" data-cover="philosophy">
+                <h1>Philosophy</h1>
+            </div>
+            <div class="col-xs-3">
+                {{#link-to "sections.trips"}}
+                    <img class="im thumb" src="images/cover/trips-cover.jpg" data-cover="trips">
+                {{/link-to}}
+                {{#link-to "sections.tech"}}
+                    <img class="im thumb" src="images/cover/tech-cover.jpg" data-cover="tech">
+                {{/link-to}}
+                {{#link-to "sections.typewriters"}}
+                    <img class="im thumb" src="images/cover/typewriters-cover.jpg" data-cover="typewriters">
+                {{/link-to}}
+            </div>
+        </div>
+    </div>
+
+    {{theme-section-content}}
+
+</div>

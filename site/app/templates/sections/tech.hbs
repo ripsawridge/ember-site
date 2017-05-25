@@ -1,0 +1,59 @@
+<div class="tech">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-9">
+                <img class="im" src="images/cover/tech-cover.jpg" data-cover="tech">
+                <h1>Technology</h1>
+            </div>
+            <div class="col-xs-3">
+                {{#link-to "sections.philosophy"}}
+                    <img class="im thumb" src="images/cover/philosophy-cover.jpg" data-cover="philosophy">
+                {{/link-to}}
+                {{#link-to "sections.trips"}}
+                    <img class="im thumb" src="images/cover/trips-cover.jpg" data-cover="trips">
+                {{/link-to}}
+                {{#link-to "sections.typewriters"}}
+                    <img class="im thumb" src="images/cover/typewriters-cover.jpg" data-cover="typewriters">
+                {{/link-to}}
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-9">
+            <p>
+                I've worked on the Chrome V8 team since 2012, first on the Runtime, and especially
+                arrays. Later I started the move away from patching ICs to "vector ICs," which
+                store map-based feedback in simple arrays instead of compiled code. Now I manage
+                the Javascript Execution Optimization Team, and sneak in a little bit of
+                programming now and then.
+            </p>
+            <p>
+                Though it saddens me a bit, because I started out programming as a hobby, once I
+                started working all day on computers, I wanted to spend my time at home another way --
+                hence this web site and it's historical orientation towards climbing. I seem to have
+                more room to program at home now though, so more might show up here. I'm
+                happy to work on an open source product...it lets me talk about what I'm doing,
+                which I love to do.
+            </p>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+            <h3>Interesting stuff</h3>
+            {{theme-block-title title="Speaking at AmsterdamJS" date="2017/06/08" 
+                desc="In June I'll talk at the AmsterdamJS conference about how we gather and
+                use feedback inside V8 to optimize code."}}
+            {{theme-block-title 
+                title="The Official V8 Blog" 
+                desc="Articles written by folks on the team 
+                      <a href='https://v8project.blogspot.com'>about the work we're doing</a>.
+                      Sometimes dry, but a reliable indicator of what we've been up to."}}
+            {{theme-block-title title="Benedikt Meurer's Blog'"
+                desc="Benedikt has <a href='http://benediktmeurer.de'>interesting and in-depth 
+                      articles</a> pretty often."}}
+        </div>
+    </div>
+</div>
+
+</div>

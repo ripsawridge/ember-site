@@ -1,0 +1,44 @@
+.theme-content-with-image {
+    display: flex;
+    flex-wrap: wrap;
+    .content-text {
+        @media (max-width: 768px) {
+            flex: 1 0 100%;
+        }
+        @media (min-width: 769px) {
+            flex: 0 0 50%;
+        }
+        padding: 40px;
+        align-self: stretch;
+    }
+    .content-image {
+        @media (max-width: 768px) {
+            flex: 1 0 100%;
+        }
+        @media (min-width: 769px) {
+            flex: 0 0 50%;
+        }
+        min-height: 320px;
+        .bg-white;
+        align-self: stretch;
+        background-size: cover;
+        background-position: center center;
+    }
+
+    &.light {
+        .bg-white;
+    }
+    &.dark {
+        .bg-light-silver;
+    }
+    &.imageFirst {
+        .content-image {
+            order: 1;
+        }
+    }
+    &.textFirst {
+        .content-text {
+            order: 1;
+        }
+    }
+}

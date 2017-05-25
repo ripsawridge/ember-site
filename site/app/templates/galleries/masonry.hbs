@@ -1,0 +1,25 @@
+<div class="galleries-masonry">
+    <div class="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h1>Masonry Gallery</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="masonry-container">
+                    {{#masonry-grid gutter=15 isFitWidth=true columnWidth=273 items=images as |image|}}
+                        <div style="margin-top: 15px;">
+                            <img src="{{image.src}}" style="width: 273px;">
+                        </div>
+                    {{/masonry-grid}}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

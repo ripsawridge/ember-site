@@ -1,0 +1,52 @@
+<div class="home">
+
+    {{#theme-head-cover}}
+        <div class="cover-text">
+            <h1 class="animated fadeInDown header-text-delay-effect">
+                &#8220;What is above knows what is below, but what is below does not
+                know what is above&#8221;
+            </h1>
+            <h4>René Daumal, &#8220;Mount Analogue&#8221;</h4>
+        </div>
+    {{/theme-head-cover}}
+
+    {{#theme-flex-thumbs type="dark"}}
+        <div class="thumb">
+            {{#link-to "sections.trips"}} <img src="images/cover/trips-cover.jpg" data-cover="trips"> {{/link-to}}
+        </div>
+        <div class="thumb">
+            {{#link-to "sections.tech"}} <img src="images/cover/tech-cover.jpg" data-cover="tech"> {{/link-to}}
+        </div>
+        <div class="thumb">
+            {{#link-to "sections.philosophy"}} <img src="images/cover/philosophy-cover.jpg" data-cover="philosophy"> {{/link-to}}
+        </div>
+        <div class="thumb">
+            {{#link-to "sections.typewriters"}} <img src="images/cover/typewriters-cover.jpg" data-cover="typewriters"> {{/link-to}}
+        </div>
+    {{/theme-flex-thumbs}}
+
+    {{theme-three-features-set}}
+
+    {{#theme-quote}}
+        <h1>“Vida lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.”</h1>
+        <span>- Lorem ipsum</span>
+    {{/theme-quote}}
+
+    {{theme-six-features-set}}
+
+    {{#theme-carousel itemsCount=3 type="dark"}}
+        {{#theme-carousel-item isActive=true}}
+            <div class="carousel-content"> <img class="people-bubble" src="./images/people/woman-1.jpg"> </div>
+            <div class="carousel-caption"> <h2>“Felicidad ipsum dolor sit amet, consectetur adipiscing elit.”</h2> </div>
+        {{/theme-carousel-item}}
+        {{#theme-carousel-item}}
+            <div class="carousel-content"> <img class="people-bubble" src="./images/people/woman-2.jpg"> </div>
+            <div class="carousel-caption"> <h2>“Amore ipsum dolor sit amet, consectetur adipiscing elit.”</h2> </div>
+        {{/theme-carousel-item}}
+        {{#theme-carousel-item}}
+            <div class="carousel-content"> <img class="people-bubble" src="./images/people/woman-3.jpg"> </div>
+            <div class="carousel-caption"> <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit.”</h2> </div>
+        {{/theme-carousel-item}}
+    {{/theme-carousel}}
+
+</div>

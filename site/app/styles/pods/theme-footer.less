@@ -1,0 +1,102 @@
+.theme-footer {
+
+    @media (max-width: 768px) {
+        .built-with {
+            display: none;
+        }
+        .all-rights {
+            display: none;
+        }
+    }
+
+    .brand { color: @brand-primary; }
+
+    .links {
+        padding-top: 30px;
+        background-color: #333333;
+        padding-bottom: 60px;
+        font-weight: 300;
+        color: white;
+        h3 {
+            border-bottom: 1px dotted gray;
+            color: @theme-primary-color-2;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+        }
+
+        .about-us-section {
+            h5 {
+                color: @theme-primary-color-3;
+                margin-top: 10px;
+                margin-bottom: 5px;
+            }
+            p {
+                color: #bbb;
+                font-weight: 300;
+                border-bottom: 1px dotted #555;
+                margin-bottom: 20px
+            }
+        }
+
+        .links-section {
+            a:hover {
+                text-decoration: none;
+            }
+            h5 {
+                margin-top: 15px;
+                cursor: pointer;
+                border-bottom: 1px dotted #555;
+                text-transform: uppercase;
+                font-weight: 300;
+                color: white;
+                padding-bottom: 5px;
+            }
+            h5::after {
+                content: '\25B6';
+                position: absolute;
+                right: 15px;
+                font-size: 0.5em;
+                margin-top: 2px;
+            }
+        }
+
+        .contact-us-section::before {
+            content: "";
+            position: absolute;
+            display: block;
+            height: 100%;
+            width: 100%;
+            background-image: url('../images/web/world-map.png');
+            background-size: cover;
+            background-position: 50% 50%;
+            background-repeat: no-repeat;
+            opacity: 0.25;
+        }
+
+        .contact-us-section {
+            height: 200px;
+            .contact-icons {
+                i {
+                    margin-right: 5px;
+                }
+            }
+        }
+
+    }
+    .bottom-bar-black {
+        height: 60px;
+        width: 100%;
+        background-color: black;
+    }
+    .bottom-bar {
+        height: 60px;
+        background-color: rgba(22, 22, 22, 0.95);
+        line-height: 60px;
+        color: white;
+
+        .right-side {
+            text-align: right;
+        }
+
+    }
+}

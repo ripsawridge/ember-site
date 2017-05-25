@@ -1,0 +1,41 @@
+.theme-icons-section {
+    text-align: center;
+
+    .col {
+        display: flex;
+        justify-content: center;
+        min-height: 280px;
+    }
+
+    div.set-wrap {
+        align-self: center;
+    }
+    i {
+        font-size: 4em;
+        line-height: 120px;
+        border-radius: 75px;
+        color: @theme-secondary-color;
+        height: 120px;
+        width: 120px;
+        text-align: center;
+        .bg-light-silver;
+    }
+    i:hover {
+        background-color: @theme-secondary-color;
+        color: #eeeeee;
+        cursor: pointer;
+    }
+    p {
+        font-size: 1em;
+        font-weight: lighter;
+    }
+    &.dark {
+        .bg-black;
+        .border-top-silver;
+    }
+    &.light{
+        .bg-white;
+        //.border-top-light-silver;
+        p { .font-gray; }
+    }
+}

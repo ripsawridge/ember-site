@@ -1,0 +1,33 @@
+.theme-counters {
+    min-height: 200px;
+
+    .col {
+        text-align: center;
+        padding-top: 60px;
+    }
+
+    h1, h3 {
+        margin: 0;
+    }
+    h1 {
+        font-size: 3em;
+        font-weight: lighter;
+    }
+    h3 {
+        text-transform: uppercase;
+        font-weight: lighter;
+        font-size: 1.5em;
+    }
+
+
+    &.dark {
+        h1 { .font-white; }
+        h3 { .font-gray; }
+        background-color: #333;
+    }
+    &.light {
+        h1 { .font-black; }
+        h3 { .font-gray; }
+        .bg-light-silver;
+    }
+}

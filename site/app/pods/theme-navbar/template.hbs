@@ -1,0 +1,73 @@
+{{#unless hide}}
+<div class="theme-navbar">
+  <!-- Fixed navbar -->
+  <div class="navbar-wrapper">
+    <nav class="navbar navbar-default {{if fixedTop "navbar-fixed-top" "navbar-flow"}}">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          {{#link-to "home" classNames="navbar-brand short-animation"}}Mountainwerks{{/link-to}}
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                Content <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                <li>{{#link-to "sections.trips"}}Mountain Trips{{/link-to}}</li>
+                <li>{{#link-to "sections.tech"}}Technology{{/link-to}}</li>
+                <li>{{#link-to "sections.philosophy"}}Philosophy{{/link-to}}</li>
+                <li>{{#link-to "sections.typewriters"}}Typewriters{{/link-to}}</li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                Pages <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                <li>{{#link-to "pages.about-me"}}About me{{/link-to}}</li>
+                <li>{{#link-to "pages.blog"}}Blog{{/link-to}}</li>
+                <li>{{#link-to "pages.coming-soon"}}Coming Soon{{/link-to}}</li>
+                <li>{{#link-to "pages.contact-us"}}Contact us{{/link-to}}</li>
+                <li>{{#link-to "pages.friends"}}Friends{{/link-to}}</li>
+                <li>{{#link-to "pages.faqs"}}FAQs{{/link-to}}</li>
+                <li>{{#link-to "pages.invoice"}}Invoice{{/link-to}}</li>
+                <li>{{#link-to "pages.pricing"}}Pricing{{/link-to}}</li>
+                <li>{{#link-to "pages.services"}}Services{{/link-to}}</li>
+                <li>{{#link-to "pages.error-404"}}404 Error{{/link-to}}</li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                Galleries <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                <li>{{#link-to "galleries.flex"}}Flex{{/link-to}}</li>
+                <li>{{#link-to "galleries.masonry"}}Masonry{{/link-to}}</li>
+                <li>{{#link-to "galleries.justified"}}Justified{{/link-to}}</li>
+              </ul>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+  </div>
+
+  {{#if fixedTop}}
+  <div class="black-header"></div>
+  {{/if}}
+</div>
+
+{{/unless}}

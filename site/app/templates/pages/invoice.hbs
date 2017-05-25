@@ -1,0 +1,83 @@
+<div class="invoice">
+    <div class="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h1>Invoice</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-3">
+                <div class="hidden-xs">
+                    <h3>Acme, Inc.</h3>
+                    {{#theme-block-title}}
+                        2016/01/06 - Supplies order.
+                    {{/theme-block-title}}
+                    {{#theme-block-title}}
+                        2016/01/08 - Shopping cart.
+                    {{/theme-block-title}}
+                    {{#theme-block-title}}
+                        2016/01/12 - Service sales.
+                    {{/theme-block-title}}
+                    {{#theme-block-title}}
+                        2016/01/24 - Consulting services.
+                    {{/theme-block-title}}
+                    {{#theme-block-title}}
+                        2016/02/03 - Supplies re-order.
+                    {{/theme-block-title}}
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-9">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6">
+                        <div class="invoice-header-block">
+                            <h4>Client information:</h4>
+                            <h5><strong>Name:</strong> Jon Doe</h5>
+                            <h5><strong>Phone:</strong> 555-555-1234</h5>
+                            <h5><strong>Email:</strong> jondoe@testemail.com</h5>
+                            <h5><strong>Address:</strong> 101 Suite 500 street</h5>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <div class="invoice-header-block">
+                            <h4>Order details:</h4>
+                            <h5><strong>Date:</strong> 01/01/2016</h5>
+                            <h5><strong>Phone:</strong> 555-555-1234</h5>
+                            <h5><strong>Contact:</strong> Mr. Anderson</h5>
+                            <h5><strong>Delivery:</strong> 555 Suite 101 Av.</h5>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12">
+                        <table class="table table-stripped table-bordered">
+                            <thead>
+                                <tr><th colspan="4">Customer Invoice</th></tr>
+                            </thead>
+                            <tbody>
+                                <tr><td colspan="4"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></td></tr>
+                                <tr> <td>#</td> <td>Item</td> <td>Quantity</td> <td>Cost</td> </tr>
+                                <tr> <td>1.</td> <td>Music Player</td> <td>1 pc</td> <td>$10.00</td> </tr>
+                                <tr> <td>2.</td> <td>Speakers</td> <td>2 pc</td> <td>$78.00</td> </tr>
+                                <tr> <td>3.</td> <td>DVD Player</td> <td>1 pc</td> <td>$145.00</td> </tr>
+                                <tr> <td>4.</td> <td>Snacks</td> <td>5 pc</td> <td>$22.00</td> </tr>
+                                <tr> <td></td> <td></td> <td>Total</td> <td>$255.00</td> </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12">
+                        <button class="btn btn-primary pull-right">Download</button>
+                        <button class="btn btn-primary pull-right">Print</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

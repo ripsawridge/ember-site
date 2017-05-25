@@ -1,0 +1,39 @@
+.theme-contact-us {
+    min-height: 560px;
+    padding: 20px 0 20px 0;
+    .bg-light-silver;
+    h2 {
+        border-bottom: 1px dotted gray;
+        margin-bottom: 20px;
+    }
+    .address::before {
+        content: "";
+        position: absolute;
+        display: block;
+        min-height: 200px;
+        height: 100%;
+        width: 100%;
+        background-image: url('../images/web/world-map.png');
+        background-size: auto 100%;
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        opacity: 0.1;
+    }
+    textarea {
+        width: 100%;
+        background-color: #888;
+        color: white;
+        padding-left: 12px;
+        padding-top: 6px;
+        border: 1px solid #ccc;
+    }
+    input, input:focus, textarea, textarea:focus {
+        color: white;
+        border: 1px solid #888;
+        box-shadow: none;
+        outline: 0;
+    }
+    button:focus, button:active, button {
+        outline: none !important;
+    }
+}
