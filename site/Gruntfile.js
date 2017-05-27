@@ -52,6 +52,15 @@ module.exports = function(grunt) {
                     blurb: report.blurb,
                     slug: fileName
                 });
+            // sort index file by date.
+            indexTrips.sort((a, b) =>
+            {
+                var date_a = new Date(a.date);
+                var date_b = new Date(b.date);
+                if (date_a < date_b) return 1;
+                else if (date_a === date_b) return 0;
+                else return -1;
+            });
             // Write index json file
             grunt.file.write('public/articles/trips/index.json', JSON.stringify(indexTrips, null, '\t'));
         });

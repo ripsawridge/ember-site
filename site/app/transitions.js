@@ -38,10 +38,7 @@ export default function() {
         'pages.coming-soon',
         'pages.friends',
         'pages.faqs',
-        'pages.invoice',
-        'pages.pricing',
         'pages.error-404',
-        'pages.services',
         'galleries.flex',
         'galleries.masonry',
         'galleries.justified'
