@@ -39,9 +39,7 @@ export default function() {
         'pages.friends',
         'pages.faqs',
         'pages.error-404',
-        'galleries.flex',
         'galleries.masonry',
-        'galleries.justified'
     ];
 
     this.transition(

@@ -30,7 +30,6 @@ Router.map(function() {
 
     this.route('galleries', {}, function(){
         this.route('masonry');
-        this.route('justified');
     });
 
 });
