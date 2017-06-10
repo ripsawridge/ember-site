@@ -55,8 +55,9 @@
                 <tbody>
                     {{#each model as |trip|}}
                     <tr> <td>{{date-mmyyyy trip.date}}</td>
-                    <td>
+                    <td>{{#link-to 'sections.trip' trip.slug}}
                         {{trip.title}}
+                        {{/link-to}}
                     </td> 
                     <td>{{trip.blurb}}</td> 
                     </tr>

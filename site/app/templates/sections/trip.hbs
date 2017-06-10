@@ -1,0 +1,27 @@
+<div class="blog">
+
+    {{#theme-head-cover}}
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="cover-text">
+                        <h4>{{#link-to 'sections.trips'}}Mountain Trips{{/link-to}}</h4>
+                        <h2>{{model.title}}</h2>
+                        <h3>{{date-full model.date}}</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {{/theme-head-cover}}
+
+    <div class="blog-content">
+        <div class="container">
+            <div class="row">
+        
+                {{{model.description}}}
+        
+            </div>
+        </div>
+    </div>
+
+</div>

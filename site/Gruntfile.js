@@ -42,6 +42,8 @@ module.exports = function(grunt) {
             var report = loadBlogPost(ymlName);
             // Identify the file name
             var fileName = ymlName.replace('articles/trips/', '').replace('.md', '');
+            // Get rid of the intervening year directory.
+            fileName = fileName.replace('/','_');
             // Stringify the javascript object and write it in json file
             grunt.file.write('public/articles/trips/' + fileName + '.json', JSON.stringify(report, null, '\t'));
             // Store summary for blogs/index
