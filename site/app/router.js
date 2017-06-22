@@ -13,7 +13,7 @@ Router.map(function() {
 
     this.route('sections', {}, function() {
         this.route('trips');
-        this.route('trip', { path: 'sections/trips/:slug'});
+        this.route('trip', { path: 'trips/:slug'});
         this.route('tech');
         this.route('philosophy');
         this.route('typewriters');

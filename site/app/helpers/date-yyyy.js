@@ -7,7 +7,7 @@ function formatDate(date) {
   return year;
 }
 
-export function dateYyyy([value, ...rest]) {
+export function dateYyyy(value) {
     // Make sure we have a date.
   if (!value.getMonth) {
     value = new Date(value);

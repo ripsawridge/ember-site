@@ -14,7 +14,7 @@ function formatDate(date) {
   return monthNames[monthIndex] + ' ' + year;
 }
 
-export function dateMmyyyy([value, ...rest]) {
+export function dateMmyyyy(value) {
     // Make sure we have a date.
   if (!value.getMonth) {
     value = new Date(value);

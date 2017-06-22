@@ -9,12 +9,13 @@ function formatDate(date) {
   ];
 
   var monthIndex = date.getMonth();
+  var day = date.getDate();
   var year = date.getFullYear();
 
-  return monthNames[monthIndex] + ' ' + year;
+  return monthNames[monthIndex] + ' ' + day + ', ' + year;
 }
 
-export function dateFull([value, ...rest]) {
+export function dateFull(value) {
     // Make sure we have a date.
   if (!value.getMonth) {
     value = new Date(value);
