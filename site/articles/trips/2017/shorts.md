@@ -112,6 +112,6 @@ and I followed the ski touring trail, which was excellent...it largely
 avoided the piste in favor of quiet trails in forest. Also, they were
 trails and not roads, which I really appreciated.
 
-<a href="images/IMG_20170106_085318.jpg"><img src="images/IMG_20170106_085318.jpg" WIDTH="800"/></a>
-<a href="images/IMG_20170106_093610.jpg"><img src="images/IMG_20170106_093610.jpg" width="800"/></a>
+<a href="images/articles/trips/2017/IMG_20170106_085318.jpg"><img src="images/articles/trips/2017/IMG_20170106_085318.jpg" WIDTH="800"/></a>
+<a href="images/articles/trips/2017/IMG_20170106_093610.jpg"><img src="images/articles/trips/2017/IMG_20170106_093610.jpg" width="800"/></a>
 

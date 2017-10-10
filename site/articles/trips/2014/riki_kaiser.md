@@ -137,7 +137,7 @@ align="center" src="http://farm4.static.flickr.com/3899/14486149522_713c2bc015.j
 <a href="http://www.flickr.com/photos/ripsawridge/14464283396/"><img
 align="center" src="http://farm6.static.flickr.com/5595/14464283396_95cca6807c_b.jpg"></a>
 <br><i>Riki headbanging with the Griesener Alm parking lot below. I asked her to
-riff on <a href="http://www.mountainwerks.org/cma/2006/images/travAway.jpg">this
+riff on <a href="images/articles/trips/2006/travAway.jpg">this
 picture</a>.</i>
 
 But Riki felt less certain. She wasn't having fun due to the cold and

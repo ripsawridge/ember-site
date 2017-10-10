@@ -5,8 +5,8 @@ blurb: with Steve and Ever
 layout: post
 ---
 
-<a href="images/DSCF2323.jpg"><img src="images/DSCF2323.jpg" width="800"/></a>
-<a href="images/DSCF2326.jpg"><img src="images/DSCF2326.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2323.jpg"><img src="images/articles/trips/2016/DSCF2323.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2326.jpg"><img src="images/articles/trips/2016/DSCF2326.jpg" width="800"/></a>
 Steve, Ever and I climbed the Kasnapoff Route on the Second Sella Tower.
 I drove down to their campground on the south side of the Sella Pass the
 night before, after an exciting day of climbing on the Alpspitze with
@@ -55,22 +55,22 @@ and it seems that the routes diverge foe at least four pitches. One should
 certainly return for the variant. Because the route was pretty empty today,
 we didn't see anyone over there as time passed.
 
-<a href="images/DSCF2337.jpg"><img src="images/DSCF2337.jpg" width="800"/></a>
-<a href="images/DSCF2347.jpg"><img src="images/DSCF2347.jpg" width="800"/></a>
-<a href="images/DSCF2349.jpg"><img src="images/DSCF2349.jpg" width="800"/></a>
-<a href="images/DSCF2357.jpg"><img src="images/DSCF2357.jpg" width="800"/></a>
-<a href="images/DSCF2361.jpg"><img src="images/DSCF2361.jpg" width="800"/></a>
-<a href="images/DSCF2362.jpg"><img src="images/DSCF2362.jpg" width="800"/></a>
-<a href="images/DSCF2365.jpg"><img src="images/DSCF2365.jpg" width="800"/></a>
-<a href="images/DSCF2366.jpg"><img src="images/DSCF2366.jpg" width="800"/></a>
-<a href="images/DSCF2376.jpg"><img src="images/DSCF2376.jpg" width="800"/></a>
-<a href="images/DSCF2379.jpg"><img src="images/DSCF2379.jpg" width="800"/></a>
-<a href="images/DSCF2381.jpg"><img src="images/DSCF2381.jpg" width="800"/></a>
-<a href="images/DSCF2385.jpg"><img src="images/DSCF2385.jpg" width="800"/></a>
-<a href="images/DSCF2390.jpg"><img src="images/DSCF2390.jpg" width="800"/></a>
-<a href="images/DSCF2402.jpg"><img src="images/DSCF2402.jpg" width="800"/></a>
-<a href="images/DSCF2405.jpg"><img src="images/DSCF2405.jpg" width="800"/></a>
-<a href="images/DSCF2407.jpg"><img src="images/DSCF2407.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2337.jpg"><img src="images/articles/trips/2016/DSCF2337.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2347.jpg"><img src="images/articles/trips/2016/DSCF2347.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2349.jpg"><img src="images/articles/trips/2016/DSCF2349.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2357.jpg"><img src="images/articles/trips/2016/DSCF2357.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2361.jpg"><img src="images/articles/trips/2016/DSCF2361.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2362.jpg"><img src="images/articles/trips/2016/DSCF2362.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2365.jpg"><img src="images/articles/trips/2016/DSCF2365.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2366.jpg"><img src="images/articles/trips/2016/DSCF2366.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2376.jpg"><img src="images/articles/trips/2016/DSCF2376.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2379.jpg"><img src="images/articles/trips/2016/DSCF2379.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2381.jpg"><img src="images/articles/trips/2016/DSCF2381.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2385.jpg"><img src="images/articles/trips/2016/DSCF2385.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2390.jpg"><img src="images/articles/trips/2016/DSCF2390.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2402.jpg"><img src="images/articles/trips/2016/DSCF2402.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2405.jpg"><img src="images/articles/trips/2016/DSCF2405.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2407.jpg"><img src="images/articles/trips/2016/DSCF2407.jpg" width="800"/></a>
 
 The guidebook describes the next pitch quite well:
 
@@ -105,21 +105,21 @@ time down steep corners and cracks.
 We went out for excellent pizza in Canazei. What a fantastic day, huge thanks
 to Steve, Ever and the spirit of these deeply beautiful mountains!
 
-<a href="images/DSCF2411.jpg"><img src="images/DSCF2411.jpg" width="800"/></a>
-<a href="images/DSCF2412.jpg"><img src="images/DSCF2412.jpg" width="800"/></a>
-<a href="images/DSCF2414.jpg"><img src="images/DSCF2414.jpg" width="800"/></a>
-<a href="images/DSCF2417.jpg"><img src="images/DSCF2417.jpg" width="800"/></a>
-<a href="images/IMG_1693.jpg"><img src="images/IMG_1693.jpg" width="800"/></a>
-<a href="images/IMG_1695.jpg"><img src="images/IMG_1695.jpg" width="800"/></a>
-<a href="images/IMG_1702.jpg"><img src="images/IMG_1702.jpg" width="800"/></a>
-<a href="images/IMG_1712.jpg"><img src="images/IMG_1712.jpg" width="800"/></a>
-<a href="images/IMG_1723.jpg"><img src="images/IMG_1723.jpg" width="800"/></a>
-<a href="images/IMG_1725.jpg"><img src="images/IMG_1725.jpg" width="800"/></a>
-<a href="images/IMG_1730.jpg"><img src="images/IMG_1730.jpg" width="800"/></a>
-<a href="images/IMG_1749.jpg"><img src="images/IMG_1749.jpg" width="800"/></a>
-<a href="images/IMG_1750.jpg"><img src="images/IMG_1750.jpg" width="800"/></a>
-<a href="images/IMG_1765.jpg"><img src="images/IMG_1765.jpg" width="800"/></a>
-<a href="images/IMG_1767.jpg"><img src="images/IMG_1767.jpg" width="800"/></a>
-<a href="images/P1070960.jpg"><img src="images/P1070960.jpg" width="800"/></a>
-<a href="images/P1070964.jpg"><img src="images/P1070964.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2411.jpg"><img src="images/articles/trips/2016/DSCF2411.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2412.jpg"><img src="images/articles/trips/2016/DSCF2412.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2414.jpg"><img src="images/articles/trips/2016/DSCF2414.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/DSCF2417.jpg"><img src="images/articles/trips/2016/DSCF2417.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/IMG_1693.jpg"><img src="images/articles/trips/2016/IMG_1693.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/IMG_1695.jpg"><img src="images/articles/trips/2016/IMG_1695.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/IMG_1702.jpg"><img src="images/articles/trips/2016/IMG_1702.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/IMG_1712.jpg"><img src="images/articles/trips/2016/IMG_1712.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/IMG_1723.jpg"><img src="images/articles/trips/2016/IMG_1723.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/IMG_1725.jpg"><img src="images/articles/trips/2016/IMG_1725.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/IMG_1730.jpg"><img src="images/articles/trips/2016/IMG_1730.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/IMG_1749.jpg"><img src="images/articles/trips/2016/IMG_1749.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/IMG_1750.jpg"><img src="images/articles/trips/2016/IMG_1750.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/IMG_1765.jpg"><img src="images/articles/trips/2016/IMG_1765.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/IMG_1767.jpg"><img src="images/articles/trips/2016/IMG_1767.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/P1070960.jpg"><img src="images/articles/trips/2016/P1070960.jpg" width="800"/></a>
+<a href="images/articles/trips/2016/P1070964.jpg"><img src="images/articles/trips/2016/P1070964.jpg" width="800"/></a>
 
