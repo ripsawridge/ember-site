@@ -1,6 +1,10 @@
 /*jshint node:true*/
 /* global require, module */
 var EmberApp = require('ember-cli/lib/broccoli/ember-app');
+var fs = require('fs');
+var glob = require('glob');
+var marked = require('marked');
+var yaml = require('js-yaml');
 
 module.exports = function(defaults) {
   var app = new EmberApp(defaults, {
@@ -24,6 +28,8 @@ module.exports = function(defaults) {
         }
   });
 
+  // Convert markdown files.
+
   // Use `app.import` to add additional libraries to the generated
   // output files.
   //
@@ -36,6 +42,70 @@ module.exports = function(defaults) {
   // modules that you would like to import into your application
   // please specify an object with the list of modules as keys
   // along with the exports of each module as its value.
+  
+
+  var loadFile = function (ymlName) {
+    var data = fs.readFileSync(ymlName, "utf8");
+    var blogPost = {};
+
+    //safeLoad the first part of the document which contains the metadata
+    var startPos = data.indexOf("---");
+    if (startPos < 0) {
+        startPos = 0;
+    } else {
+        startPos += 4;
+    }
+
+    // locate the divider character (---)
+    var dividerPos = data.indexOf("---", startPos + 4);
+    var innerData = data.substring(startPos, dividerPos);
+    var doc = yaml.safeLoad(innerData);
+    blogPost.date = doc.date;
+    blogPost.title = doc.title;
+    blogPost.blurb = doc.blurb;
+
+    // identify the content after the divider character as
+    // the blogPost.description written in Markdown
+    blogPost.description = marked(data.substr(dividerPos + 4));
+    return blogPost;
+  };
+
+  var convertProjectsFiles = function() {
+    var index = [];
+    var ymls = glob('articles/trips/**/*.md', {sync: true});
+    
+    console.log("Converting " + ymls.length + " files");
+
+    ymls.forEach(function (ymlName) {
+        console.log("doing " + ymlName);
+        // Load
+        var project = loadFile(ymlName);
+        var fileName = ymlName.replace('articles/trips/', '').replace('/','_').replace('.md', '');
+        fs.writeFileSync('public/articles/trips/' + fileName + '.json', JSON.stringify(project));
+        // Store summary for index
+        index.push(
+            {
+              title: project.title,
+              date : project.date,
+              blurb: project.blurb,
+              slug: fileName
+            });
+    });
+    
+    // sort index file by date.
+    index.sort((a, b) =>
+        {
+            var date_a = new Date(a.date);
+            var date_b = new Date(b.date);
+            if (date_a < date_b) return 1;
+            else if (date_a === date_b) return 0;
+            else return -1;
+        });
+    fs.writeFileSync('public/articles/trips/index.json', JSON.stringify(index));
+  };
+
+  convertProjectsFiles();
+
 
 
   // app.import('bower_components/bootstrap/dist/css/bootstrap.css');
