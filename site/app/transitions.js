@@ -32,12 +32,9 @@ export default function() {
     );
 
     let pages = [
-        'pages.contact-us',
         'pages.about-me',
         'pages.blog',
-        'pages.coming-soon',
         'pages.friends',
-        'pages.faqs',
         'pages.error-404',
         'galleries.masonry',
     ];

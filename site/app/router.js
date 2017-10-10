@@ -22,10 +22,7 @@ Router.map(function() {
     this.route('pages', {}, function() {
         this.route('about-me');
         this.route('blog');
-        this.route('coming-soon');
-        this.route('contact-us');
         this.route('friends');
-        this.route('faqs');
         this.route('error-404');
     });
 
