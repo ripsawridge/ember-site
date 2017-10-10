@@ -30,7 +30,7 @@ a hillside with bridges over raging creeks.
 
 
 <br><br><center>
-<img src="images/sirdonstart.jpg"><br>
+<img src="images/articles/trips/2003/sirdonstart.jpg"><br>
 <i>The route visible from the col.</i><br></center>
 
 
@@ -62,7 +62,7 @@ only may be a better way to go.
 
 
 <br><br><center>
-<img src="images/sirdonclimb.jpg"><br>
+<img src="images/articles/trips/2003/sirdonclimb.jpg"><br>
 <i>Robert on firm quartzite of the arete.</i><br></center>
 
 
@@ -101,19 +101,19 @@ and eating a sandwich contentedly.
 
 
 <br><br><center>
-<img src="images/climbsirdon.jpg"><br>
+<img src="images/articles/trips/2003/climbsirdon.jpg"><br>
 <i>Me climbing low on the route.</i><br></center>
 
 <br><br><center>
-<img src="images/sirdononridge1.jpg"><br>
+<img src="images/articles/trips/2003/sirdononridge1.jpg"><br>
 <i>Robert approaching the final slopes.</i><br></center>
 
 <br><br><center>
-<img src="images/mista.jpg"><br>
+<img src="images/articles/trips/2003/mista.jpg"><br>
 <i>Robert and I on the summit. HIT cookies!</i><br></center>
 
 <br><br><center>
-<img src="images/coolglacier.jpg"><br>
+<img src="images/articles/trips/2003/coolglacier.jpg"><br>
 <i>An awesome view to the south.</i><br></center>
 
 
@@ -152,7 +152,7 @@ I couldn't safely go any faster.
 
 
 <br><br><center>
-<img src="images/descentsirdon.jpg"><br>
+<img src="images/articles/trips/2003/descentsirdon.jpg"><br>
 <i>Me on our simul-climbing descent.</i><br></center>
 
 
@@ -200,6 +200,6 @@ equally interesting! Capital fellows...
 
 
 <br><br><center>
-<img src="images/descentsirdon1.jpg"><br>
+<img src="images/articles/trips/2003/descentsirdon1.jpg"><br>
 <i>Me on the descent again.</i><br></center>
 

@@ -45,7 +45,7 @@ A short but steep forest trail dropped us off in the Basin.
 
 
 <br><br><center>
-<img src="images/bedalbasin.jpg"><br>
+<img src="images/articles/trips/2003/bedalbasin.jpg"><br>
 <i>Lovely Bedal Basin.</i><br></center>
 
 
@@ -118,11 +118,11 @@ I reached a tree with a network of slings around it, and set a belay.
 
 
 <br><br><center>
-<img src="images/abovechimney.jpg"><br>
+<img src="images/articles/trips/2003/abovechimney.jpg"><br>
 <i>Just above the difficult chimney pitch.</i><br></center>
 
 <br><br><center>
-<img src="images/anotherledge.jpg"><br>
+<img src="images/articles/trips/2003/anotherledge.jpg"><br>
 <i>Theron on a mid-face ledge.</i><br></center>
 
 
@@ -135,7 +135,7 @@ He took off again for a long and exciting pitch.
 
 
 <br><br><center>
-<img src="images/fantastico.jpg"><br>
+<img src="images/articles/trips/2003/fantastico.jpg"><br>
 <i>Theron leading pitch 4 - a long ramp to a vertical step.</i><br></center>
 
 
@@ -166,11 +166,11 @@ led us unexpectantly to the Corkscrew Route trail.
 
 
 <br><br><center>
-<img src="images/fantasticrid.jpg"><br>
+<img src="images/articles/trips/2003/fantasticrid.jpg"><br>
 <i>Theron on the last pitch of technical climbing - an exciting ridge of solid rock.</i><br></center>
 
 <br><br><center>
-<img src="images/broodsummit.jpg"><br>
+<img src="images/articles/trips/2003/broodsummit.jpg"><br>
 <i>Theron on the summit with clouds coming from the west.</i><br></center>
 
 
@@ -202,11 +202,11 @@ disappeared for good, probably into the moat between snow and rock.
 
 
 <br><br><center>
-<img src="images/finalrap.jpg"><br>
+<img src="images/articles/trips/2003/finalrap.jpg"><br>
 <i>On rappel to the permanent snowfield.</i><br></center>
 
 <br><br><center>
-<img src="images/ledgesdown.jpg"><br>
+<img src="images/articles/trips/2003/ledgesdown.jpg"><br>
 <i>Scrambling to a notch on the way back to Bedal Basin.</i><br></center>
 
 
@@ -230,9 +230,9 @@ and eating 3-4 at a time. Sometimes we'd stop and graze in the evening light.
 
 
 <br><br><center>
-<img src="images/sombers.jpg"><br>
+<img src="images/articles/trips/2003/sombers.jpg"><br>
 <i>Beautiful peaks to the west.</i><br></center>
 
 <br><br><center>
-<img src="images/liltarn.jpg"><br>
+<img src="images/articles/trips/2003/liltarn.jpg"><br>
 <i>Goodbye for now!</i><br></center>

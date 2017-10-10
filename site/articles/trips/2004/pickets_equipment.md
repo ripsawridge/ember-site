@@ -9,7 +9,7 @@ _back to [Picket Range Traverse](pickets.html)..._
 
 The Equipment
 ---
-![](images/a_equipment.jpg)
+![](images/articles/trips/2004/a_equipment.jpg)
 
 Just for future reference, I thought I'd record what I brought along on
 the trip, and what our "group gear" was. Note that band-aids and duct tape

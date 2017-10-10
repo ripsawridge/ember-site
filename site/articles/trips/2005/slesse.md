@@ -337,31 +337,31 @@ TECHNICAL INFO: First, 500 feet of scrambling up from the glacial slabs to incre
 
 <table>
 <tr><td>
-<a href="images/cruxpitch.jpg"><img src="images/cruxpitch.jpg"></a><br>
+<a href="images/articles/trips/2005/cruxpitch.jpg"><img src="images/articles/trips/2005/cruxpitch.jpg"></a><br>
 <i>Starting to climb a small roof</i>
 </td></tr>
 <tr><td>
-<a href="images/aidanclimbs.jpg"><img src="images/aidanclimbs.jpg"></a><br>
+<a href="images/articles/trips/2005/aidanclimbs.jpg"><img src="images/articles/trips/2005/aidanclimbs.jpg"></a><br>
 <i>Aidan climbing a steep pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/theronhard.jpg"><img src="images/theronhard.jpg"></a><br>
+<a href="images/articles/trips/2005/theronhard.jpg"><img src="images/articles/trips/2005/theronhard.jpg"></a><br>
 <i>Theron on an awkward crack</i>
 </td></tr>
 <tr><td>
-<a href="images/lookedge.jpg"><img src="images/lookedge.jpg"></a><br>
+<a href="images/articles/trips/2005/lookedge.jpg"><img src="images/articles/trips/2005/lookedge.jpg"></a><br>
 <i>Looking over the edge of our bivy platform</i>
 </td></tr>
 <tr><td>
-<a href="images/upperroute.jpg"><img src="images/upperroute.jpg"></a><br>
+<a href="images/articles/trips/2005/upperroute.jpg"><img src="images/articles/trips/2005/upperroute.jpg"></a><br>
 <i>Looking ahead to the next day</i>
 </td></tr>
 <tr><td>
-<a href="images/lastpitch.jpg"><img src="images/lastpitch.jpg"></a><br>
+<a href="images/articles/trips/2005/lastpitch.jpg"><img src="images/articles/trips/2005/lastpitch.jpg"></a><br>
 <i>Looking down on the last pitch</i>
 </td></tr>
 <tr><td>
-<a href="images/metopsl.jpg"><img src="images/metopsl.jpg"></a><br>
+<a href="images/articles/trips/2005/metopsl.jpg"><img src="images/articles/trips/2005/metopsl.jpg"></a><br>
 <i>Michael on the summit</i>
 </td></tr>
 </table>

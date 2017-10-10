@@ -107,29 +107,29 @@ Stately Pleasure. This is another great climb with a great partner!
 <td width="30%" valign=top>
 <table>
 <tr><td>
-<a href="images/aonsouthc.jpg"><img src="images/aonsouthc.jpg"></a><br>
+<a href="images/articles/trips/2003/aonsouthc.jpg"><img src="images/articles/trips/2003/aonsouthc.jpg"></a><br>
 <i>Aidan on pitch 2</i>
 </td></tr>
 <tr><td>
-<a href="images/scrackp1.jpg"><img src="images/scrackp1.jpg"></a><br>
+<a href="images/articles/trips/2003/scrackp1.jpg"><img src="images/articles/trips/2003/scrackp1.jpg"></a><br>
 <i>First pitch with a party above</i>
 </td></tr>
 <tr><td>
-<a href="images/aonsouthc1.jpg"><img src="images/aonsouthc1.jpg"></a><br>
+<a href="images/articles/trips/2003/aonsouthc1.jpg"><img src="images/articles/trips/2003/aonsouthc1.jpg"></a><br>
 <i>Another shot of Aidan on pitch 2</i>
 </td></tr>
 <tr><td>
-<a href="images/southcrack.jpg"><img src="images/southcrack.jpg"></a><br>
+<a href="images/articles/trips/2003/southcrack.jpg"><img src="images/articles/trips/2003/southcrack.jpg"></a><br>
 <i>Clowning around</i>
 </td></tr>
 <tr><td>
-<a href="images/tohalfdome.jpg"><img src="images/tohalfdome.jpg"></a><br>
+<a href="images/articles/trips/2003/tohalfdome.jpg"><img src="images/articles/trips/2003/tohalfdome.jpg"></a><br>
 <i>Aidan on top</i>
 </td></tr>
 <tr><td>
-<a href="images/yadome.jpg"><img src="images/yadome.jpg"></a><br>
+<a href="images/articles/trips/2003/yadome.jpg"><img src="images/articles/trips/2003/yadome.jpg"></a><br>
 <i>A world of domes from near the summit</i>
 </td></tr>
 <tr><td>
-<a href="images/aidannlake.jpg"><img src="images/aidannlake.jpg"></a><br>
+<a href="images/articles/trips/2003/aidannlake.jpg"><img src="images/articles/trips/2003/aidannlake.jpg"></a><br>
 <i>Aidan descending from Stately Pleasure Dome</i>
