@@ -22,7 +22,7 @@ how they ended up here or there in the wilds?)
 
 
 
-![Guye Peak from the Northeast](images/guyer.jpg)
+![Guye Peak from the Northeast](images/articles/trips/2001/guyer.jpg)
 
 
 Parking at the deserted Summit ski area, I marched up a hard packed
@@ -67,8 +67,8 @@ look the same if someone was over there looking at me. Wow...
 
 
 
-![Saddle and pond below summit](images/saddle.jpg)
-![Cave Ridge and Snoqualmie Mountain](images/caveridge.jpg)
+![Saddle and pond below summit](images/articles/trips/2001/saddle.jpg)
+![Cave Ridge and Snoqualmie Mountain](images/articles/trips/2001/caveridge.jpg)
 
 The wind increased, and lots of snow blew onto the ridge from the
 east. I realized this could present an avalanche problem. The slope
