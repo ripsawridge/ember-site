@@ -3,7 +3,7 @@
 # compiled output
 /dist
 /tmp
-/public/articles/trips/*
+/public/articles/trips/*.json
 
 # dependencies
 /node_modules
