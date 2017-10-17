@@ -1,9 +1,22 @@
----
+----
 title: Berchtesgaden climbing
 date: 2017-10-14
 blurb: with Barbara
 layout: post
----
+----
+
+<a href='https://www.flickr.com/photos/55338612@N00/37727717781'>
+<img src='https://farm5.static.flickr.com/4508/37727717781_7c207cdc2b_b.jpg'></a>
+We are pretty eager
+
+
+
+<a href='https://www.flickr.com/photos/55338612@N00/37018438024'>
+<img src='https://farm5.static.flickr.com/4491/37018438024_8c99b4b2e6_b.jpg'></a>
+Kannst Du Barbara finden?
+
+
+
 
 Rare and wonderful event: Barbara and I both had a full weekend, and good,
 dry weather was in the forecast. Of course, we had to use it. As usual,
@@ -37,6 +50,18 @@ Barbara brought me back to the larger point: "The goal is a fun weekend,
 and the hiking is part of it. It doesn't make sense to declare a part of the
 hiking is 'bad.' It's all good!"
 
+<a href='https://www.flickr.com/photos/55338612@N00/37018435184'>
+<img src='https://farm5.static.flickr.com/4514/37018435184_a09b4279f5_b.jpg'></a>
+We are here
+
+
+
+<a href='https://www.flickr.com/photos/55338612@N00/37018442124'>
+<img src='https://farm5.static.flickr.com/4445/37018442124_13e9b11cfb_b.jpg'></a>
+Hi again, you
+
+
+
 Oh! She knows things.
 
 So, back down, and then up again on the other side of a short but popular
@@ -61,6 +86,18 @@ were first visible? That would be "only" 5000 years ago, and I suppose that's
 nothing to the rock face here. Long it stood, "as if waiting for us to find it
 enjoyable to climb," I quipped to Barbara.
 
+<a href='https://www.flickr.com/photos/55338612@N00/37727736361'>
+<img src='https://farm5.static.flickr.com/4454/37727736361_4c8d2f556e_b.jpg'></a>
+Barbara acts in a movie
+
+
+
+<a href='https://www.flickr.com/photos/55338612@N00/37727738771'>
+<img src='https://farm5.static.flickr.com/4481/37727738771_872edd6f7c_b.jpg'></a>
+Hello, süße
+
+
+
 Really, a most excellent pitch, with a vertical section after the slab that I thought
 Barbara would find challenging, but no, she came up easily. The last pitch
 at IV- was equally interesting. Short and steep walls with grippy rock. The 
@@ -72,6 +109,18 @@ Have I said that I want more?
 Because if I did I was wrong.
 
 ---
+
+<a href='https://www.flickr.com/photos/55338612@N00/37727740451'>
+<img src='https://farm5.static.flickr.com/4492/37727740451_08d805c50b_b.jpg'></a>
+A great, long pitch (4/4-)
+
+
+
+<a href='https://www.flickr.com/photos/55338612@N00/37695872952'>
+<img src='https://farm5.static.flickr.com/4464/37695872952_753a4a28ae_b.jpg'></a>
+These are the colors
+
+
 
 Now we hiked up in "Golden Hour" light, happy to wear shoes again. We reached the
 Jägerkreuz, then started down a cable-protected path. Barbara slipped in the snow,
@@ -88,6 +137,18 @@ In town we found an Italian restaurant and pigged out on pizza, Caprezzi salad a
 red wine. What a day!
 
 ---
+
+<a href='https://www.flickr.com/photos/55338612@N00/37695874272'>
+<img src='https://farm5.static.flickr.com/4482/37695874272_8e12e1d93b_b.jpg'></a>
+Now my pants are wet!
+
+
+
+<a href='https://www.flickr.com/photos/55338612@N00/37057736693'>
+<img src='https://farm5.static.flickr.com/4514/37057736693_9a2406898d_b.jpg'></a>
+Guten Morgen, Schätzi!
+
+
 
 At a fantastic breakfast, we honed in on the possibilities for the day. The route
 "[Jubiläumsweg](http://www.bergsteigen.com/klettern/bayern/berchtesgadener-alpen/jubilaeumsweg-hoher-goell)" on the Hoher Göll looked interesting, though maybe too hard.
@@ -109,6 +170,18 @@ to earth.
 Laughing, I said "yes, you did! But where was that material grown? Your father's mother
 is the Earth."
 
+<a href='https://www.flickr.com/photos/55338612@N00/37057744123'>
+<img src='https://farm5.static.flickr.com/4456/37057744123_f7ef3aa184_b.jpg'></a>
+Barbara walking over...
+
+
+
+<a href='https://www.flickr.com/photos/55338612@N00/37018471114'>
+<img src='https://farm5.static.flickr.com/4466/37018471114_80a19738a2_b.jpg'></a>
+Lots of easy terrain
+
+
+
 Again, no! We continued like this, enjoying ourselves. I got an idea.
 
 "Look at these dead leaves on the ground. There are so many...to us, their mother was the
@@ -122,6 +195,18 @@ that we love so much."
 "Is the earth not tired at the end of the day? Doesn't it feel the way we do? Fully
 worked...but happy and satisfied with the effort?"
 
+<a href='https://www.flickr.com/photos/55338612@N00/37018472254'>
+<img src='https://farm5.static.flickr.com/4493/37018472254_a598d0f0c4_b.jpg'></a>
+Difficult, wonderful final chimney
+
+
+
+<a href='https://www.flickr.com/photos/55338612@N00/37470268550'>
+<img src='https://farm5.static.flickr.com/4447/37470268550_e52184c830_b.jpg'></a>
+The first of many abseils...
+
+
+
 Barbara understood what I meant. But she guards against wandering into deep weeds of
 useless mental play with a fierce commitment to right here and now. She won't go one
 step down a path that she doesn't feel fully. I can't express how valuable I find
@@ -134,6 +219,18 @@ dizzy with feeling. At our "high age" we've finally learned to follow our noses 
 greater feeling, greater grips with life. We keep finding each other there.
 
 ---
+
+<a href='https://www.flickr.com/photos/55338612@N00/37470275070'>
+<img src='https://farm5.static.flickr.com/4514/37470275070_84cd3be110_b.jpg'></a>
+See you soon!
+
+
+
+<a href='https://www.flickr.com/photos/55338612@N00/37695901572'>
+<img src='https://farm5.static.flickr.com/4500/37695901572_46dd444875_b.jpg'></a>
+Goodbye, Hoher Göll
+
+
 
 At this point, we were like a beach continually washed by waves of peace and love
 (srsly, I'm not exaggerating :)), so any climbing we did would just be extra bonus
@@ -197,4 +294,5 @@ Three more abseils got us down...down to water and apples, with spicy sausage fo
 We began the long journey back home, dodging major traffic jams...it seemed like all
 Deutschland was on the road, crammed together in mobile parking lots. For us, the dark
 northern shore of the Chiemsee, back roads and stars above. We are always home.
+
 
