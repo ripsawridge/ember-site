@@ -16,6 +16,7 @@ Router.map(function() {
         this.route('trip', { path: 'trips/:slug'});
         this.route('tech');
         this.route('philosophy');
+        this.route('ramble', { path: 'philosophy/:slug'});
         this.route('typewriters');
     });
 

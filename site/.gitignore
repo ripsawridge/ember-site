@@ -4,6 +4,7 @@
 /dist
 /tmp
 /public/articles/trips/*.json
+/public/articles/philosophy/*.json
 
 # dependencies
 /node_modules

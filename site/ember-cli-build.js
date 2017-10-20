@@ -70,9 +70,9 @@ module.exports = function(defaults) {
     return blogPost;
   };
 
-  var convertProjectsFiles = function() {
+  var convertProjectsFiles = function(root_folder) {
     var index = [];
-    var ymls = glob('articles/trips/**/*.md', {sync: true});
+    var ymls = glob(root_folder + '/**/*.md', {sync: true});
     
     console.log("Converting " + ymls.length + " files");
 
@@ -80,8 +80,11 @@ module.exports = function(defaults) {
         console.log("doing " + ymlName);
         // Load
         var project = loadFile(ymlName);
-        var fileName = ymlName.replace('articles/trips/', '').replace('/','_').replace('.md', '');
-        fs.writeFileSync('public/articles/trips/' + fileName + '.json', JSON.stringify(project));
+        var fileName = ymlName.replace(root_folder + '/', '')
+            .replace('/','_')
+            .replace('.md', '');
+        fs.writeFileSync('public/' + root_folder + '/' + fileName + '.json', 
+                         JSON.stringify(project));
         // Store summary for index
         index.push(
             {
@@ -101,11 +104,11 @@ module.exports = function(defaults) {
             else if (date_a === date_b) return 0;
             else return -1;
         });
-    fs.writeFileSync('public/articles/trips/index.json', JSON.stringify(index));
+    fs.writeFileSync('public/' + root_folder + '/index.json', JSON.stringify(index));
   };
 
-  convertProjectsFiles();
-
+  convertProjectsFiles("articles/trips");
+  convertProjectsFiles("articles/philosophy");
 
 
   // app.import('bower_components/bootstrap/dist/css/bootstrap.css');
