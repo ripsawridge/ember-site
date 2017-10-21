@@ -4,8 +4,32 @@ date: 2017-1-1
 layout: post
 ---
 
+### Flintsbach Night Climbing
+
+_September 30, 2017_
+
+Barbara wanted to climb at night sometime. So we did! It was great fun.
+![On the wall](images/articles/trips/2017/on-wall.jpg)
+
+
+### Wendelstein Night Hike
+
+_September 4, 2017_
+
+Barbara, her dog Mara and I started up the Wendelstein in the evening.
+We walked from Bayrischzell to the house below the summit, going in
+and buying a coffee for her and a beer for me, yeah! Mara got a
+bowl of water. Technically they were closed, but Barbara used her
+charm to win us a place while a couple guys who worked there talked
+on the phone. I was cold so I'm wearing her sweater in the picture.
+
+![In the Wendelsteinhaus](images/articles/trips/2017/in-haus.jpg)
+
+Mara was a good dog on the way down, sticking close to us in the dark.
+
 ### Kramerspitze (yes, again)
 _March 4, 2017_
+
 I didn't want to fight traffic, so I took the train to Garmisch.
 I went up the usual way, and again had to break the trail around the
 north side. Snowshoes were great here. For some reason, nobody uses
@@ -32,6 +56,7 @@ More pictures [here](https://www.flickr.com/photos/ripsawridge/albums/7215768104
 
 ### Company ski-day
 _February 24, 2017_
+
 A fun time! I skinned up on my touring skis to the Hoehe Salve summit,
 about 1100 meters up from the base at Söll. I ran into Yang and Ulan
 on the way up, which was fun. Later, at lunch I couldn't find anyone
@@ -51,6 +76,7 @@ Always tinged with the absurd, the way I like it best. :)
 
 ### Wallberg
 _February 14, 2017_
+
 Hannes, Camillo and I skied up Wallberg tonight. Well, they managed to
 keep skis on. Hannes used ski-crampons to deal with the really icy
 slope and I don't know how Camillo managed! For me it was at least
@@ -66,6 +92,7 @@ Bräuhaus after -- very nice!
 
 ### Kramerspitz
 _February 4, 2017_
+
 I snowshoed up Kramerspitz on a nice day. Slowly clouds scudded in
 and by the end there was a light snow. The deep snow on the back side
 was exhausting to make steps in. I nearly turned around before then!
@@ -75,6 +102,7 @@ from town. On the way down I saw her tracks diverge left and down --
 very interesting! I'll have to try that way sometime.
 
 ### Wallberg
+
 Jaro, Marcel, Camillo and I skied up Wallberg after work. It was very cold,
 and we had lots of snow. Fun! Jaro wanted to skin right up the steepest
 part of the slope, and we did this (though I lost patience and made a
@@ -87,6 +115,7 @@ W00t!
 
 ### Brauneck
 _January 7, 2017_
+
 I was back two days later; high avalanche danger kept me out of the higher
 mountains. It's simply because the uptrack is such an enjoyable trail, I didn't
 mind skiing on a commercial ski mountain. I repeated what Jaro and I did

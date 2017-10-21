@@ -71,7 +71,7 @@ to work, you keep doing that. Before long you are manipulating an environment
 you risk understanding in a cartoonish way.
 
 There is a
-(critique of the powerful)[https://www.theguardian.com/commentisfree/2014/mar/26/caring-curse-working-class-austerity-solidarity-scourge]
+[critique of the powerful](https://www.theguardian.com/commentisfree/2014/mar/26/caring-curse-working-class-austerity-solidarity-scourge)
 that strikes a chord with me: they use
 money to save themselves the effort of understanding people with less of it.
 Those without so much money are forced to get inside the heads of their "betters,"
