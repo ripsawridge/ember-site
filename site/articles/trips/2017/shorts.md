@@ -4,6 +4,19 @@ date: 2017-1-1
 layout: post
 ---
 
+### Monteneu
+
+_November 2, 2017_
+
+The boys and I were staying in Schruns for the second half of the
+Herbsferien week. I took some gloves and my walkman, and hiked quickly
+up the Monteneu above town. The elevation gain was about 1200 meters,
+reaching a height of ~1850 meters, with only a dusting of snow near
+the summit. Mostly, it was warm and wonderful as the Bartholomäberg
+mountain faces south, providing a network of road and trail to the
+summit. Pictures available <a href="https://www.flickr.com/photos/ripsawridge/albums/72157665823748489">here</a>.
+
+
 ### Flintsbach Night Climbing
 
 _September 30, 2017_
