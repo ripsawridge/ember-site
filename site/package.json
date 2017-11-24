@@ -40,6 +40,7 @@
     "ember-disable-proxy-controllers": "^1.0.1",
     "ember-export-application-global": "^1.0.4",
     "ember-justified-gallery": "0.0.2",
+    "ember-leaflet": "3.0.12",
     "ember-load-initializers": "^0.5.0",
     "ember-masonry-grid": "1.1.0",
     "ember-resolver": "^2.0.3",
@@ -47,6 +48,7 @@
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-contrib-nodeunit": "~0.4.1",
     "grunt-contrib-uglify": "~0.5.0",
+    "leaflet": "1.2.0",
     "liquid-fire": "0.23.0",
     "loader.js": "^4.0.0",
     "marked": "^0.3.6"
