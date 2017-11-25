@@ -107,9 +107,27 @@ module.exports = function(defaults) {
     fs.writeFileSync('public/' + root_folder + '/index.json', JSON.stringify(index));
   };
 
+  function loadGeolocations(json_file) {
+    var text = fs.readFileSync(json_file, "utf8");
+    var data = yaml.safeLoad(text);
+    var index = [];
+    for (var i = 0; i < data.length; i++) {
+      var obj = data[i];
+      console.log("name = " + obj.name);
+      index.push(
+          {
+            name: obj.name,
+            location : [parseFloat(obj.latitude), parseFloat(obj.longitude)]
+          });
+     }
+    fs.writeFileSync('public/articles/trips/locations-stripped.json', JSON.stringify(index));
+  };
+
   convertProjectsFiles("articles/trips");
   convertProjectsFiles("articles/philosophy");
 
+  // Load geolocations, for map display.
+  loadGeolocations("articles/trips/locations-stripped.json");
 
   // app.import('bower_components/bootstrap/dist/css/bootstrap.css');
   // app.import('bower_components/bootstrap/dist/css/bootstrap.css.map', {

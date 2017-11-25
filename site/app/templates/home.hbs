@@ -26,5 +26,11 @@
 
     {{theme-three-features-set}}
 
-    {{leaflet-map}}
+    {{#leaflet-map lat=lat lng=lng zoom=zoom}}
+      {{tile-layer url=tileserver}}
+      {{#each model as |loc|}}
+        {{#marker-layer location=loc.location}}
+        {{/marker-layer}}
+      {{/each}}
+    {{/leaflet-map}}
 </div>
