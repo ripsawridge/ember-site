@@ -1,0 +1,15 @@
+<div>
+  <div class="container">
+    <div class="row">
+      Hi There, here are mountain locations.
+
+      {{#leaflet-map lat=lat lng=lng zoom=zoom}}
+        {{tile-layer url=tileserver}}
+        {{#each model as |loc|}}
+          {{#marker-layer location=loc.location}}
+          {{/marker-layer}}
+        {{/each}}
+      {{/leaflet-map}}
+    </div>
+  </div>
+</div>

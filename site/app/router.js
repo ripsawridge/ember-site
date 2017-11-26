@@ -25,6 +25,7 @@ Router.map(function() {
         this.route('blog');
         this.route('friends');
         this.route('error-404');
+        this.route('locations');
     });
 
     this.route('galleries', {}, function(){
