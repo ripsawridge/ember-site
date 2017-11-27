@@ -3,6 +3,7 @@ title: Index, City Park
 date: 2000-10-1
 blurb: first aid climb
 layout: post
+location: Index Town Walls
 ---
 
 * October 1,22,24, 2000

@@ -2,6 +2,7 @@
 title: Prusik Peak West Ridge
 date: 2000-6-10
 layout: post
+location: Prusik Peak
 ---
 
 * June 10-11, 2000

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>locations.kml</name>
+	<name>Locations.kml</name>
 	<Style id="s_ylw-pushpin_hl">
 		<IconStyle>
 			<scale>1.3</scale>
@@ -85,20 +85,18 @@
 			<Placemark>
 				<name>Red Mountain</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.3886195708481</longitude>
-					<latitude>47.45120643650991</latitude>
+					<longitude>-121.3901214778161</longitude>
+					<latitude>47.45956130281962</latitude>
 					<altitude>0</altitude>
-					<heading>0.2504451185208223</heading>
-					<tilt>32.77297057222012</tilt>
-					<range>3316.391784826143</range>
+					<heading>0.008124398696665642</heading>
+					<tilt>33.45549011615113</tilt>
+					<range>1253.681731096315</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.389592815663,47.45551742009447,0</coordinates>
+					<coordinates>-121.3894264523842,47.45587022819988,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -121,7 +119,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Mount Defiance</name>
+				<name>Mount Defiance (Oregon)</name>
 				<LookAt>
 					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
 </gx:TimeStamp>
@@ -133,7 +131,7 @@
 					<range>3543.142752415339</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.7222188283981,45.64838395635851,0</coordinates>
@@ -256,20 +254,18 @@
 			<Placemark>
 				<name>Snoqualmie Mountain</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.4109273736624</longitude>
-					<latitude>47.4613670518202</latitude>
+					<longitude>-121.414391053563</longitude>
+					<latitude>47.46189306980741</latitude>
 					<altitude>0</altitude>
-					<heading>0.2352659341311894</heading>
-					<tilt>20.48242246750231</tilt>
-					<range>5769.899746014158</range>
+					<heading>-0.009755562930382308</heading>
+					<tilt>22.15699863119418</tilt>
+					<range>2434.904966489129</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.4146908523052,47.46043119820283,0</coordinates>
+					<coordinates>-121.4159688763337,47.45819546859317,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -294,20 +290,18 @@
 			<Placemark>
 				<name>Chair Peak</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.4519265944591</longitude>
-					<latitude>47.46424195596571</latitude>
+					<longitude>-121.466759546884</longitude>
+					<latitude>47.46063185729378</latitude>
 					<altitude>0</altitude>
-					<heading>0.2050654359208703</heading>
-					<tilt>20.48519222712029</tilt>
-					<range>6651.398495911675</range>
+					<heading>-2.985745707223877e-10</heading>
+					<tilt>33.74604428723004</tilt>
+					<range>795.39260811447</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.4666156312405,47.4591093013802,0</coordinates>
+					<coordinates>-121.4668501683786,47.45955078305651,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -693,58 +687,52 @@
 			<Placemark>
 				<name>Del Campo Peak</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.4718406397729</longitude>
-					<latitude>48.00410346950488</latitude>
+					<longitude>-121.4703679837223</longitude>
+					<latitude>47.99208236101688</latitude>
 					<altitude>0</altitude>
-					<heading>0.1869164280805154</heading>
-					<tilt>36.2714239431298</tilt>
-					<range>6947.214950822453</range>
+					<heading>0.1867838169110924</heading>
+					<tilt>36.55646206433389</tilt>
+					<range>596.6910335824788</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.4709640025267,47.99039799839586,0</coordinates>
+					<coordinates>-121.4696782145771,47.99109809100714,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Vesper Peak</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.5073937694179</longitude>
-					<latitude>48.02707641642113</latitude>
+					<longitude>-121.5178245876608</longitude>
+					<latitude>48.0172342206685</latitude>
 					<altitude>0</altitude>
-					<heading>0.1605092384929738</heading>
-					<tilt>36.2708446372872</tilt>
-					<range>6838.185679996159</range>
+					<heading>-0.0119642724267789</heading>
+					<tilt>34.15994064277648</tilt>
+					<range>1744.802096282267</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.5181142148974,48.01223083784667,0</coordinates>
+					<coordinates>-121.5180196318046,48.01262056930219,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Columbia Peak</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.3649684416281</longitude>
-					<latitude>47.98196419109992</latitude>
+					<longitude>-121.3608764933049</longitude>
+					<latitude>47.96235332328853</latitude>
 					<altitude>0</altitude>
-					<heading>0.2662917759047643</heading>
-					<tilt>36.26892047031068</tilt>
-					<range>6654.874774235021</range>
+					<heading>0.2680989227746831</heading>
+					<tilt>39.85488612478431</tilt>
+					<range>653.3969490717536</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.3613530902062,47.9611294355965,0</coordinates>
+					<coordinates>-121.361337488092,47.96153025129229,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -769,115 +757,103 @@
 			<Placemark>
 				<name>Whitehorse Mountain</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.6852114040642</longitude>
-					<latitude>48.24404225636849</latitude>
+					<longitude>-121.6765703905152</longitude>
+					<latitude>48.21225832268763</latitude>
 					<altitude>0</altitude>
-					<heading>0.02829803545652773</heading>
-					<tilt>40.21615091793833</tilt>
-					<range>11207.44870639328</range>
+					<heading>0.0333831698856709</heading>
+					<tilt>26.40096334642314</tilt>
+					<range>1103.312707653438</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.6780632088807,48.21060183416292,0</coordinates>
+					<coordinates>-121.6777962921508,48.21087763454226,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Green Mountain</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.2528005612056</longitude>
-					<latitude>48.32247721885037</latitude>
+					<longitude>-121.2399512219848</longitude>
+					<latitude>48.29433188312682</latitude>
 					<altitude>0</altitude>
-					<heading>0.3503891756691231</heading>
-					<tilt>42.21827323654669</tilt>
-					<range>13493.95472873827</range>
+					<heading>0.3579469033507204</heading>
+					<tilt>34.81225943442801</tilt>
+					<range>1250.876868784057</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.2394821728815,48.29103424473588,0</coordinates>
+					<coordinates>-121.2387331490226,48.29141742814443,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Snowking Mountain</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.2950088766349</longitude>
-					<latitude>48.41343880066922</latitude>
+					<longitude>-121.280472373073</longitude>
+					<latitude>48.41188168475597</latitude>
 					<altitude>0</altitude>
-					<heading>0.3188623906688376</heading>
-					<tilt>42.65477118554453</tilt>
-					<range>13562.01897028612</range>
+					<heading>0.3276968091679904</heading>
+					<tilt>26.29449950476617</tilt>
+					<range>2638.048155561819</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.2783325097299,48.40654283049165,0</coordinates>
+					<coordinates>-121.2780763115719,48.40812238047003,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Eldorado Peak</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.1524209218593</longitude>
-					<latitude>48.56027563286647</latitude>
+					<longitude>-121.1326999952955</longitude>
+					<latitude>48.53702728079646</latitude>
 					<altitude>0</altitude>
-					<heading>0.4250546598111671</heading>
-					<tilt>34.87103970857554</tilt>
-					<range>18257.27049634579</range>
+					<heading>0.4383341448211245</heading>
+					<tilt>27.15134132961233</tilt>
+					<range>2387.996608431954</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.1332639330356,48.53551095120513,0</coordinates>
+					<coordinates>-121.1334731068781,48.53747668707121,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Boston Peak</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.1185872825304</longitude>
-					<latitude>48.52713962056303</latitude>
+					<longitude>-121.0389622596767</longitude>
+					<latitude>48.49317901291184</latitude>
 					<altitude>0</altitude>
-					<heading>0.4504299596016978</heading>
-					<tilt>34.87066029259027</tilt>
-					<range>18183.36963160233</range>
+					<heading>0.5085354422643348</heading>
+					<tilt>29.36850778287605</tilt>
+					<range>1807.095865066668</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.0363252810015,48.49367362118851,0</coordinates>
+					<coordinates>-121.0361643418768,48.49534231312101,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Johannesburg Mountain</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.1050034619259</longitude>
-					<latitude>48.47203049526713</latitude>
+					<longitude>-121.0925361350561</longitude>
+					<latitude>48.46494251735359</latitude>
 					<altitude>0</altitude>
-					<heading>0.4605937905403783</heading>
-					<tilt>39.84619283161852</tilt>
-					<range>6361.846873799398</range>
+					<heading>0.470216212655214</heading>
+					<tilt>35.79186212808058</tilt>
+					<range>659.5907131374928</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.092032905877,48.46401620879266,0</coordinates>
+					<coordinates>-121.0918383070986,48.46464994714108,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -921,39 +897,35 @@
 			<Placemark>
 				<name>Spire Point</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.0722042735673</longitude>
-					<latitude>48.33138125932653</latitude>
+					<longitude>-121.0711862234549</longitude>
+					<latitude>48.32010203200648</latitude>
 					<altitude>0</altitude>
-					<heading>0.4851926517623881</heading>
-					<tilt>47.28811094375317</tilt>
-					<range>6654.517617308218</range>
+					<heading>0.4859529130420018</heading>
+					<tilt>33.65288117797377</tilt>
+					<range>1186.865018796617</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.0719382571116,48.3170944634417,0</coordinates>
+					<coordinates>-121.071720903658,48.31747248702818,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Dome Peak</name>
 				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>-121.0308268326662</longitude>
-					<latitude>48.33293289191476</latitude>
+					<longitude>-121.0332949175329</longitude>
+					<latitude>48.30556324929044</latitude>
 					<altitude>0</altitude>
-					<heading>0.5160587284936903</heading>
-					<tilt>49.36745785473678</tilt>
-					<range>8400.915000433268</range>
+					<heading>0.5142401467381298</heading>
+					<tilt>44.23245376772685</tilt>
+					<range>1399.368928112861</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>-121.0283997496491,48.30287479097476,0</coordinates>
+					<coordinates>-121.031933169244,48.30186382068957,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -1125,6 +1097,550 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-121.3010808403666,48.95708005048805,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Elk Mountain (Oregon)</name>
+				<LookAt>
+					<longitude>-121.6147625177742</longitude>
+					<latitude>45.33538983635297</latitude>
+					<altitude>0</altitude>
+					<heading>0.2808750358030486</heading>
+					<tilt>59.29031304726615</tilt>
+					<range>989.2614474503586</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.6114962261203,45.33580207109681,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Icicle Creek</name>
+				<LookAt>
+					<longitude>-120.7399749128261</longitude>
+					<latitude>47.54730077537876</latitude>
+					<altitude>0</altitude>
+					<heading>0.9546262439596435</heading>
+					<tilt>13.5394658804636</tilt>
+					<range>11828.8698784496</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.7434351062289,47.54358264999072,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Adams</name>
+				<LookAt>
+					<longitude>-121.5024006582181</longitude>
+					<latitude>46.21198673094182</latitude>
+					<altitude>0</altitude>
+					<heading>0.3886321509108001</heading>
+					<tilt>21.81401130902015</tilt>
+					<range>7057.660155264372</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.4912321963441,46.20264972916063,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Liberty Bell Mountain</name>
+				<LookAt>
+					<longitude>-120.6585588752598</longitude>
+					<latitude>48.51968248857743</latitude>
+					<altitude>0</altitude>
+					<heading>0.7934301211131078</heading>
+					<tilt>38.90596548468962</tilt>
+					<range>1644.827983323062</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.6581316887269,48.51515281406999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>South Early Winters Spire</name>
+				<LookAt>
+					<longitude>-120.6559208312679</longitude>
+					<latitude>48.51155873425913</latitude>
+					<altitude>0</altitude>
+					<heading>0.795406283604539</heading>
+					<tilt>38.90214028023944</tilt>
+					<range>966.5180730614899</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.6553756307236,48.51208875583458,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sahale Mountain</name>
+				<LookAt>
+					<longitude>-121.0396726406098</longitude>
+					<latitude>48.49284411263327</latitude>
+					<altitude>0</altitude>
+					<heading>0.5080035291311414</heading>
+					<tilt>29.36859298831621</tilt>
+					<range>1826.451955597088</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.0385039756541,48.49086920793986,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Snow Creek Wall</name>
+				<LookAt>
+					<longitude>-120.7179877881159</longitude>
+					<latitude>47.53714989574477</latitude>
+					<altitude>0</altitude>
+					<heading>0.7459438015754126</heading>
+					<tilt>40.07122170203293</tilt>
+					<range>3029.950935497216</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.7195271287527,47.52841004744138,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Silver Star Mountain</name>
+				<LookAt>
+					<longitude>-120.5873254124617</longitude>
+					<latitude>48.5483155881624</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0009270353016447885</heading>
+					<tilt>16.09307473981949</tilt>
+					<range>1385.488757915623</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.5865214281774,48.54819578167915,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Observation Rock</name>
+				<LookAt>
+					<longitude>-121.8081542270563</longitude>
+					<latitude>46.90318762916338</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001265508897632244</heading>
+					<tilt>18.43887831978731</tilt>
+					<range>1455.10039428325</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.8065333945514,46.90147110438033,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Banks Lake</name>
+				<LookAt>
+					<longitude>-119.2435809201986</longitude>
+					<latitude>47.76368674227038</latitude>
+					<altitude>0</altitude>
+					<heading>-0.04540704628909992</heading>
+					<tilt>0</tilt>
+					<range>41403.36684524241</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-119.1828912991013,47.80430209612844,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Black Peak (Washington)</name>
+				<LookAt>
+					<longitude>-120.8156635024833</longitude>
+					<latitude>48.52346660313713</latitude>
+					<altitude>0</altitude>
+					<heading>-1.860589502554661e-09</heading>
+					<tilt>0</tilt>
+					<range>2519.464423316646</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.8157351864728,48.52326483574986,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Dickerman</name>
+				<LookAt>
+					<longitude>-121.4720067005899</longitude>
+					<latitude>48.07076655500963</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0012027754281276</heading>
+					<tilt>30.95475594325339</tilt>
+					<range>1315.187821740281</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.4705262535317,48.06854252200549,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fortress Mountain</name>
+				<LookAt>
+					<longitude>-120.9349411467921</longitude>
+					<latitude>48.16042545876898</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0007033250766587256</heading>
+					<tilt>19.00215579690448</tilt>
+					<range>1337.286510629849</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.9335054242708,48.15936989625655,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lundin Peak</name>
+				<LookAt>
+					<longitude>-121.399858732823</longitude>
+					<latitude>47.46459451274661</latitude>
+					<altitude>0</altitude>
+					<heading>0.0009509293271112399</heading>
+					<tilt>24.48129644750064</tilt>
+					<range>882.6881049634387</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.3991631246491,47.46226192371942,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mesahchie Peak</name>
+				<LookAt>
+					<longitude>-120.8851663714141</longitude>
+					<latitude>48.57830120038374</latitude>
+					<altitude>0</altitude>
+					<heading>-0.00352342199505989</heading>
+					<tilt>5.87181732741494</tilt>
+					<range>2435.867229945497</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.8803675511282,48.57823190730277,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Goat Wall</name>
+				<LookAt>
+					<longitude>-120.44976061531</longitude>
+					<latitude>48.62075724129854</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001831406576501654</heading>
+					<tilt>0</tilt>
+					<range>2621.102187643166</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.4465248690683,48.62045331578942,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mineral Butte</name>
+				<LookAt>
+					<longitude>-121.4743334165526</longitude>
+					<latitude>47.92722333239259</latitude>
+					<altitude>0</altitude>
+					<heading>-0.004275732750195824</heading>
+					<tilt>8.028495512969682</tilt>
+					<range>2653.946406153073</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.4691186285184,47.92628052956638,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Abiel Peak</name>
+				<LookAt>
+					<longitude>-121.4709038660984</longitude>
+					<latitude>47.35384867571364</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02938830206976905</heading>
+					<tilt>0.0158084950166801</tilt>
+					<range>4099.948642762632</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.4689602207199,47.3515255374775,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Slippery Slab Tower</name>
+				<LookAt>
+					<longitude>-121.1249290623393</longitude>
+					<latitude>47.66717703089605</latitude>
+					<altitude>0</altitude>
+					<heading>-12.85517974680851</heading>
+					<tilt>33.65692989315142</tilt>
+					<range>635.5158833166515</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.1252948228203,47.66674245954412,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sperry Peak</name>
+				<LookAt>
+					<longitude>-121.5056565939469</longitude>
+					<latitude>48.01872194198241</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002920697656475269</heading>
+					<tilt>19.14145472579057</tilt>
+					<range>1457.092141231068</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.5018924269238,48.01595141564878,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Brothers</name>
+				<LookAt>
+					<longitude>-123.1421914213075</longitude>
+					<latitude>47.65449031645287</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001019053563853998</heading>
+					<tilt>16.5903883355997</tilt>
+					<range>1539.856122746528</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-123.1405316833131,47.65357128641457,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cutthroat Peak</name>
+				<LookAt>
+					<longitude>-120.7080472124064</longitude>
+					<latitude>48.52636602729631</latitude>
+					<altitude>0</altitude>
+					<heading>-0.003209400040823517</heading>
+					<tilt>0</tilt>
+					<range>3379.328577305675</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.7033864774207,48.52610632787384,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Green Giant Buttress</name>
+				<LookAt>
+					<longitude>-121.6624992721702</longitude>
+					<latitude>48.14755032731761</latitude>
+					<altitude>0</altitude>
+					<heading>-2.524972389410893e-09</heading>
+					<tilt>0</tilt>
+					<range>1027.116235808433</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.6624992721702,48.14755032731761,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Goode Mountain</name>
+				<LookAt>
+					<longitude>-120.9109449647197</longitude>
+					<latitude>48.48290728100771</latitude>
+					<altitude>0</altitude>
+					<heading>-6.146765421833844e-09</heading>
+					<tilt>0</tilt>
+					<range>2564.700474491049</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.9109449647197,48.48290728100771,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kaleetan Peak</name>
+				<LookAt>
+					<longitude>-121.4822553737893</longitude>
+					<latitude>47.46426300332997</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002821286923866471</heading>
+					<tilt>0</tilt>
+					<range>3040.728858226999</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.4782675431467,47.46199207396555,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Kent</name>
+				<LookAt>
+					<longitude>-121.6197707113199</longitude>
+					<latitude>47.39128454328061</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001597137918781924</heading>
+					<tilt>15.27416381684946</tilt>
+					<range>1528.22905327963</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.6177303173341,47.39002157812144,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Twin Sister</name>
+				<LookAt>
+					<longitude>-121.9931828083748</longitude>
+					<latitude>48.71094521684931</latitude>
+					<altitude>0</altitude>
+					<heading>1.709232156359592e-06</heading>
+					<tilt>0</tilt>
+					<range>2721.459934069243</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.9980257999379,48.71508778870922,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Rainier</name>
+				<LookAt>
+					<longitude>-121.760323394179</longitude>
+					<latitude>46.85231151373524</latitude>
+					<altitude>0</altitude>
+					<heading>1.181771986332075e-08</heading>
+					<tilt>0</tilt>
+					<range>2671.33521176865</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.760323394179,46.85231151373524,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cashmere Mountain</name>
+				<LookAt>
+					<longitude>-120.8470528989507</longitude>
+					<latitude>47.55871540204089</latitude>
+					<altitude>0</altitude>
+					<heading>-1.577909658436246e-07</heading>
+					<tilt>0</tilt>
+					<range>2753.206407723801</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.8470528989507,47.55871540204089,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Triumph</name>
+				<LookAt>
+					<longitude>-121.3550978320282</longitude>
+					<latitude>48.7064434933875</latitude>
+					<altitude>0</altitude>
+					<heading>4.698057082612225e-07</heading>
+					<tilt>0</tilt>
+					<range>2923.702607230624</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.3550978320282,48.7064434933875,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>West McMillan Spire</name>
+				<LookAt>
+					<longitude>-121.279439651045</longitude>
+					<latitude>48.78033263978529</latitude>
+					<altitude>0</altitude>
+					<heading>0.05690767460637429</heading>
+					<tilt>32.5201258175976</tilt>
+					<range>2029.465033063899</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.2798825993947,48.77220502457599,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Frenchman Coulee</name>
+				<LookAt>
+					<longitude>-119.9719369242327</longitude>
+					<latitude>47.0256119151096</latitude>
+					<altitude>0</altitude>
+					<heading>-1.773003069681051e-08</heading>
+					<tilt>0</tilt>
+					<range>1000.000286462704</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-119.9703940485751,47.02412832563209,0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>

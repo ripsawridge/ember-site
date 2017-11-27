@@ -2,6 +2,7 @@
 title: Middle Sister
 date: 1997-07-27
 layout: post
+location: Middle Sister
 ---
 
 This climb was my favorite wilderness event so far. Beautiful weather,

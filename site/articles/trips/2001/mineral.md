@@ -3,6 +3,7 @@ title: Mineral Butte
 date: 2001-2-17
 blurb: avy danger
 layout: post
+location: Mineral Butte
 ---
 
 Peter and I had a day to spend in the mountains, so we looked for

@@ -2,6 +2,7 @@
 title: Lundin Peak East Ridge
 date: 2001-9-27
 layout: post
+location: Lundin Peak
 ---
 
 

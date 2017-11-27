@@ -3,6 +3,7 @@ title: Glacier Peak, Frostbite Ridge
 date: 2002-7-13
 blurb: solo climb
 layout: post
+location: Glacier Peak
 ---
 
 * Glacier Peak, Frostbite Ridge

@@ -1,7 +1,8 @@
 ---
-title: The Tooth
+title: The Tooth in Winter
 date: 2003-1-18
 layout: post
+location: The Tooth
 ---
 
 <h2>South Face</h2>

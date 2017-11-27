@@ -2,6 +2,7 @@
 title: Argonaut Peak (attempt)
 date: 2003-5-3
 layout: post
+location: Argonaut Peak
 ---
 
 * Northwest Buttress (attempt)

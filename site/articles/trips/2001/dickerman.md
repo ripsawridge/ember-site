@@ -2,6 +2,7 @@
 title: Mount Dickerman
 date: 2001-2-11
 layout: post
+location: Mount Dickerman
 ---
 
 Christos and I hiked up, using snowshoes for the last mile. After an aborted visit in 

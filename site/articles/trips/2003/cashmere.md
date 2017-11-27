@@ -2,6 +2,7 @@
 title: Cashmere Mountain
 date: 2003-5-25
 layout: post
+location: Cashmere Mountain
 ---
 
 <h1>Cashmere Mountain</h1>

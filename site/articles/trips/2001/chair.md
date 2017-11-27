@@ -3,6 +3,7 @@ title: Chair Peak, NE Buttress
 date: 2001-2-25
 blurb: attempt, soft snow
 layout: post
+location: Chair Peak
 ---
 
 In the pre-dawn, Steve and I hiked from the upper Alpental parking lot towards

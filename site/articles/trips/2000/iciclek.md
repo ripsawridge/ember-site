@@ -3,6 +3,7 @@ title: Icicle Creek Climbing
 date: 2000-5-13
 blurb: with Kris
 layout: post
+location: Icicle Creek
 ---
 
 * May 13 - 14, 2000

@@ -2,6 +2,7 @@
 title: Guye Peak South Rib
 date: 2001-6-6
 layout: post
+location: Guye Peak
 ---
 
 "On belay, Peter!"

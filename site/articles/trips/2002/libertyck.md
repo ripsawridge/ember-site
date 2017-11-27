@@ -3,6 +3,7 @@ title: Liberty Bell, Liberty Crack
 date: 2002-6-20
 blurb: rained out
 layout: post
+location: Liberty Bell Mountain
 ---
 
 * Liberty Crack (A3, 5.9)

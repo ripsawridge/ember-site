@@ -3,6 +3,7 @@ title: Mount Saint Helens
 date: 1997-05-17
 blurb: first climb!
 layout: post
+location: Mount Saint Helens
 ---
 
 May 17th-18th, 1997

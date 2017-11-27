@@ -2,6 +2,7 @@
 title: Dragontail Peak Triple Couloirs
 date: 2003-4-5
 layout: post
+location: Dragontail Peak
 ---
 
 <h1>Dragontail Peak</h1>

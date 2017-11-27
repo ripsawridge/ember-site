@@ -3,6 +3,7 @@ title: Whitehorse Mountain
 date: 2000-2-20
 blurb: out of time
 layout: post
+location: Whitehorse Mountain
 ---
 
 Peter and I had discussed climbing Whitehorse, a 6500 foot high mountain

@@ -3,6 +3,7 @@ title: Mt. Daniels Attempt
 date: 1998-08-15
 blurb: rained out
 layout: post
+location: Mount Daniels
 ---
 August 15-16, 1998
 

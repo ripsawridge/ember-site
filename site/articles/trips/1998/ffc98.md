@@ -3,6 +3,7 @@ title: Gothic Basin
 blurb: with nephews
 date: 1998-07-15
 layout: post
+location: Del Campo Peak
 ---
 
 ![](images/articles/trips/1998/bigv.jpg)

@@ -2,6 +2,7 @@
 title: Eldorado Peak
 date: 2000-5-6
 layout: post
+location: Eldorado Peak
 ---
 
 * May 6-7, 2000

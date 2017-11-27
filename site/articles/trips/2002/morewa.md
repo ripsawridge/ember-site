@@ -3,6 +3,7 @@ title: Washington Pass climbing
 date: 2002-9-20
 blurb: SEW Spire and Concord Tower
 layout: post
+location: South Early Winters Spire
 ---
 
 South Early Winter's Spire and Concord Tower

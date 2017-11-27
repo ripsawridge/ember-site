@@ -2,6 +2,7 @@
 title: Index "Great Northern Slab"
 date: 1999-03-07
 layout: post
+location: Index Town Walls
 ---
 
 * Great Northern Slab (5.7)

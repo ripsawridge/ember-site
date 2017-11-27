@@ -3,6 +3,7 @@ title: Spray Park
 date: 2000-9-15
 blurb: Observation, Hessog
 layout: post
+location: Observation Rock
 ---
 
 * September, 2000

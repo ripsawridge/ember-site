@@ -2,6 +2,7 @@
 title: The Tooth
 date: 2002-6-25
 layout: post
+location: The Tooth
 ---
 
 * with Kris and Steve Allain

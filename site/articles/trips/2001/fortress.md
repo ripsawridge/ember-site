@@ -3,6 +3,7 @@ title: Fortress and Chiwawa Mountains
 date: 2001-6-15
 blurb: day trip!
 layout: post
+location: Fortress Mountain
 ---
 
 June 15, 2001

@@ -3,6 +3,7 @@ title: Clark Mountain Attempt
 date: 1998-09-02
 blurb: crevassed out
 layout: post
+location: Clark Mountain
 ---
 
 "A Walrus by Any Other Name"

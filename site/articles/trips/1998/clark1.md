@@ -3,6 +3,7 @@ title: Clark Mountain Attempt
 date: 1998-07-07
 blurb: rained out
 layout: post
+location: Clark Mountain
 ---
 
 July, 1998

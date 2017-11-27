@@ -3,6 +3,7 @@ title: Mt. Index, North Peak
 date: 2001-8-11
 blurb: North Face
 layout: post
+location: Mount Index North Peak
 ---
 
 * Mt. Index, North Peak

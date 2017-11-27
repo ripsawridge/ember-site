@@ -2,6 +2,7 @@
 title: Eldorado Peak
 date: 1998-06-15
 layout: post
+location: Eldorado Peak
 ---
 
 ![Forbidden and Sahale Peaks](images/articles/trips/1998/eltitle.jpg)

@@ -2,6 +2,7 @@
 title: Forbidden Peak North Ridge
 date: 2002-8-11
 layout: post
+location: Forbidden Peak
 ---
 
 * North Ridge, III, 5.6

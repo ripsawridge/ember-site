@@ -3,6 +3,7 @@ title: Leavenworth Climbing
 date: 2003-4-25
 blurb: Kris's birthday party
 layout: post
+location: Icicle Creek
 ---
 
 <h1>Leavenworth Climbing</h1>

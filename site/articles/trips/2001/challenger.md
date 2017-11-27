@@ -3,6 +3,7 @@ title: Easy Ridge
 date: 2001-8-6
 blurb: Mount Challenger attempt
 layout: post
+location: Mount Challenger
 ---
 
 Marek, Jake and I were dreaming about Mt. Challenger. The big gentle

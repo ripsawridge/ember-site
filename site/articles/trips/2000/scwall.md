@@ -2,6 +2,7 @@
 title: Leavenworth Climbing
 date: 2000-5-20
 layout: post
+location: Snow Creek Wall
 ---
 
 May 20-21, 2000

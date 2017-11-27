@@ -2,6 +2,7 @@
 title: Sloan Peak
 date: 2001-8-25
 layout: post
+location: Sloan Peak
 ---
 
 * Sloan Peak

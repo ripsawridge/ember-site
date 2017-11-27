@@ -2,6 +2,7 @@
 title: The Tooth
 date: 2002-6-10
 layout: post
+location: The Tooth
 ---
 
 The Tooth (Peter's Birthday)

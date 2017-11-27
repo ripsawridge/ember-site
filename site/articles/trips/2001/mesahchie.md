@@ -2,6 +2,7 @@
 title: Mesahchie Peak, North Ridge
 date: 2001-8-19
 layout: post
+location: Mesahchie Peak
 ---
 
 August 19, 2001

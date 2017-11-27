@@ -2,6 +2,7 @@
 title: Sloan Peak, West Face
 date: 2003-8-3
 layout: post
+location: Sloan Peak
 ---
 
 <h2>West Face (5.7)</h2>

@@ -2,6 +2,7 @@
 title: Mount Baker, North Ridge
 date: 2003-6-8
 layout: post
+location: Mount Baker
 ---
 
 I'll cut to the chase. This is an amazing climb. Maximize your window and

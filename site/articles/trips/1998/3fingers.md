@@ -3,6 +3,7 @@ title: Three Fingers Mountain
 date: 1998-09-3
 blurb: south summit
 layout: post
+location: Three Fingers Peak
 ---
 
 ![The steep slopes below the lookout building](images/articles/trips/1998/3fsteep.jpg)

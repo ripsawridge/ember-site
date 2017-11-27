@@ -3,6 +3,7 @@ title: Mount Adams
 date: 1999-09-04
 blurb: stormed off
 layout: post
+location: Mount Adams
 ---
 
 September 4-5, 1999

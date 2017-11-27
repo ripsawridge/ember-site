@@ -2,6 +2,7 @@
 title: Vesper Peak North Face
 date: 2001-9-8
 layout: post
+location: Vesper Peak
 ---
 
 

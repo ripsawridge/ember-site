@@ -2,6 +2,7 @@
 title: Aasgard Pass Hike
 date: 2006-11-15
 layout: post
+location: Dragontail Peak
 ---
 
 John Bennett 

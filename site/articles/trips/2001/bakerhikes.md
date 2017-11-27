@@ -3,6 +3,7 @@ title: Mount Baker Hiking
 date: 2001-9-15
 blurb: with Kris
 layout: post
+location: Mount Baker
 ---
 
 * September 15-16, 2001

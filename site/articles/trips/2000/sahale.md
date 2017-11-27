@@ -2,6 +2,7 @@
 title: Sahale Peak
 date: 2000-9-12
 layout: post
+location: Sahale Mountain
 ---
 
 

@@ -2,6 +2,7 @@
 title: Mount Hood
 date: 1998-05-3
 layout: post
+location: Mount Hood
 ---
 
 Allow me to introduce

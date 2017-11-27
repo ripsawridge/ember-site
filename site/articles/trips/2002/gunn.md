@@ -2,6 +2,7 @@
 title: Gunn Peak
 date: 2002-6-9
 layout: post
+location: Gunn Peak
 ---
 
 
@@ -122,8 +123,8 @@ rappel down the icy couloir to the broad gully. After putting away
 rope and harness, we walked and glissaded down to the basin and up
 (pretty slowly now) on a traverse to the saddle leading back to the
 car. We hiked quickly down to the brushy terrain, noticing another
-pair of tracks that came up from the brush, intersected ours and ended
-- presumably returning the way they came. Seems strange to hike
+pair of tracks that came up from the brush, intersected ours and ended,
+presumably returning the way they came. Seems strange to hike
 through brush hell and end your journey when the traveling gets easy!
 
 

@@ -2,6 +2,7 @@
 title: Columbia Peak, Northwest Ridge
 date: 2000-10-4
 layout: post
+location: Columbia Peak
 ---
 
 I was changing jobs at work, and had the opportunity to use a vacation
