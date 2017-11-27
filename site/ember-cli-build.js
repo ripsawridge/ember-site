@@ -64,6 +64,7 @@ module.exports = function(defaults) {
     blogPost.date = doc.date;
     blogPost.title = doc.title;
     blogPost.blurb = doc.blurb;
+    blogPost.location = doc.location;
 
     // identify the content after the divider character as
     // the blogPost.description written in Markdown
@@ -91,6 +92,7 @@ module.exports = function(defaults) {
               title: project.title,
               date : project.date,
               blurb: project.blurb,
+	      location: project.location,
               slug: fileName
             });
     });
@@ -105,9 +107,10 @@ module.exports = function(defaults) {
             else return -1;
         });
     fs.writeFileSync('public/' + root_folder + '/index.json', JSON.stringify(index));
+    return index;
   };
 
-  function transformGeoLocations(input_kml, output_json) {
+  function transformGeoLocations(input_kml, output_json, trip_index) {
     var kml = fs.readFileSync(input_kml);
     var json = xml2json.toJson(kml, { object: true });
     var maps = json.kml.Document.Folder.Folder; // the locations folder.
@@ -117,22 +120,30 @@ module.exports = function(defaults) {
       map.Placemark.forEach((placemark) => {
         let obj = {
           name: placemark.name,
-	  location: [parseFloat(placemark.LookAt.longitude),
-                     parseFloat(placemark.LookAt.latitude)],
+	  location: [parseFloat(placemark.LookAt.latitude),
+                     parseFloat(placemark.LookAt.longitude)],
           map_name: map.name
         };
-        data.push(obj);
+        // Associate the trips made at this location.
+        let trips = trip_index.filter((trip) => { 
+          return trip.location == obj.name; 
+        });
+        if (trips.length > 0) {
+          // Why put a location on the map if there are no associated trips?
+          obj.trips = trips;
+          data.push(obj);
+        }
       });
     });
     fs.writeFileSync(output_json, JSON.stringify(data, null, 1));
   }
 
-  convertProjectsFiles("articles/trips");
+  var trip_index = convertProjectsFiles("articles/trips");
   convertProjectsFiles("articles/philosophy");
 
   // Load geolocations, for map display.
   transformGeoLocations("articles/trips/locations.kml",
-    "public/articles/trips/locations.json");
+    "public/articles/trips/locations.json", trip_index);
 
   // app.import('bower_components/bootstrap/dist/css/bootstrap.css');
   // app.import('bower_components/bootstrap/dist/css/bootstrap.css.map', {

@@ -1,15 +1,15 @@
 <div>
   <div class="container">
     <div class="row">
-      Hi There, here are mountain locations.
-
-      {{#leaflet-map lat=lat lng=lng zoom=zoom}}
-        {{tile-layer url=tileserver}}
-        {{#each model as |loc|}}
-          {{#marker-layer location=loc.location}}
-          {{/marker-layer}}
-        {{/each}}
-      {{/leaflet-map}}
-    </div>
+      <h2>Trip locations in the Pacific Northwest</h2>
+      {{#trip-map lat=northwest_lat lng=northwest_lng zoom=northwest_zoom
+                  model=model}}
+      {{/trip-map}}
+ 
+      <h2>Trip locations in the Eastern Alps</h2>
+      {{#trip-map lat=easternalps_lat lng=easternalps_lng zoom=easternalps_zoom
+                  model=model}}
+      {{/trip-map}}
+     </div>
   </div>
 </div>
