@@ -12,6 +12,12 @@ A handful of pictures from a really long day trip.  Chris, Jake and I climbed
 well over 8000 feet in a day, driven forward by the amazing scenery in this
 forgotten area of the Cascades.
 
+_A bunch of these pictures were lost over the years..._
+
+![](images/articles/trips/2001/dakobed.jpg)
+
+![](images/articles/trips/2001/sumtowers.jpg)
+
 
 ![This is Buck Mountain from the trail into Chiwawa Basin. There is a 5th class climb
 up the glacier and into the rock band on the skyline. Let's go!](images/articles/trips/2001/buckmtn.jpg)
