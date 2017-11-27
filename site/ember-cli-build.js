@@ -5,6 +5,7 @@ var fs = require('fs');
 var glob = require('glob');
 var marked = require('marked');
 var yaml = require('js-yaml');
+var xml2json = require('xml2json');
 
 module.exports = function(defaults) {
   var app = new EmberApp(defaults, {
@@ -77,7 +78,6 @@ module.exports = function(defaults) {
     console.log("Converting " + ymls.length + " files");
 
     ymls.forEach(function (ymlName) {
-        console.log("doing " + ymlName);
         // Load
         var project = loadFile(ymlName);
         var fileName = ymlName.replace(root_folder + '/', '')
@@ -107,27 +107,32 @@ module.exports = function(defaults) {
     fs.writeFileSync('public/' + root_folder + '/index.json', JSON.stringify(index));
   };
 
-  function loadGeolocations(json_file) {
-    var text = fs.readFileSync(json_file, "utf8");
-    var data = yaml.safeLoad(text);
-    var index = [];
-    for (var i = 0; i < data.length; i++) {
-      var obj = data[i];
-      console.log("name = " + obj.name);
-      index.push(
-          {
-            name: obj.name,
-            location : [parseFloat(obj.latitude), parseFloat(obj.longitude)]
-          });
-     }
-    fs.writeFileSync('public/articles/trips/locations-stripped.json', JSON.stringify(index));
-  };
+  function transformGeoLocations(input_kml, output_json) {
+    var kml = fs.readFileSync(input_kml);
+    var json = xml2json.toJson(kml, { object: true });
+    var maps = json.kml.Document.Folder.Folder; // the locations folder.
+    // There should be two maps, one for the northwest, one for europe.
+    let data = [];
+    maps.forEach((map) => {
+      map.Placemark.forEach((placemark) => {
+        let obj = {
+          name: placemark.name,
+	  location: [parseFloat(placemark.LookAt.longitude),
+                     parseFloat(placemark.LookAt.latitude)],
+          map_name: map.name
+        };
+        data.push(obj);
+      });
+    });
+    fs.writeFileSync(output_json, JSON.stringify(data, null, 1));
+  }
 
   convertProjectsFiles("articles/trips");
   convertProjectsFiles("articles/philosophy");
 
   // Load geolocations, for map display.
-  loadGeolocations("articles/trips/locations-stripped.json");
+  transformGeoLocations("articles/trips/locations.kml",
+    "public/articles/trips/locations.json");
 
   // app.import('bower_components/bootstrap/dist/css/bootstrap.css');
   // app.import('bower_components/bootstrap/dist/css/bootstrap.css.map', {
