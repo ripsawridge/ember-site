@@ -3,6 +3,7 @@ title: Burgundy Spire
 date: 2004-7-5
 blurb: and Paisano Pinnacle!
 layout: post
+location: Burgundy Spire
 ---
 
 * via Paisano Pinnacle and North Face (5.8)

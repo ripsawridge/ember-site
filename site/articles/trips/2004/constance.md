@@ -2,6 +2,7 @@
 title: Mount Constance
 date: 2004-9-26
 layout: post
+location: Mount Constance
 ---
 
 * West Arete (5.6)

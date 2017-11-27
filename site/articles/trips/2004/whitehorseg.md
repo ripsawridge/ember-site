@@ -3,6 +3,7 @@ title: Whitehorse Mountain
 date: 2004-3-13
 blurb: via Snow Gulch
 layout: post
+location: Whitehorse Mountain
 ---
 
 * Whitehorse Glacier

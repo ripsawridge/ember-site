@@ -1,8 +1,9 @@
 ---
-title: Tommyhoi Peak
+title: Tomyhoi Peak
 date: 2004-9-20
 blurb: and Yellow Aster Butte
 layout: post
+location: Tomyhoi Peak
 ---
 
 <h2>(and Yellow Aster Butte)</h2>

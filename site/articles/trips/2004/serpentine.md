@@ -3,6 +3,7 @@ title: Dragontail Peak
 date: 2004-6-12
 blurb: Serpentine Arete (5.8)
 layout: post
+location: Dragontail Peak
 ---
 
 * Serpentine Arete (5.8, III)

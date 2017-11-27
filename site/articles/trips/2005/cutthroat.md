@@ -3,6 +3,7 @@ title: Cutthroat Peak
 date: 2005-4-22
 blurb: with Alex!
 layout: post
+location: Cutthroat Peak
 ---
 
 <p>East Face Couloir</p>

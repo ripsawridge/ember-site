@@ -2,6 +2,7 @@
 title: Vantage/Leavenworth Climbing
 date: 2004-3-27
 layout: post
+location: Icicle Creek
 ---
 
 <h2>Condorphamine Addiction (5.10a) and others</h2>

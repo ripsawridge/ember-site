@@ -2,6 +2,7 @@
 title: Paddy Go Easy Pass
 date: 2004-9-15
 layout: post
+location: Paddy Go Easy Pass
 ---
 
 <p>

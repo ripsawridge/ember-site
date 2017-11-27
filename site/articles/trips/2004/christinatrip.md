@@ -3,6 +3,7 @@ title: Lake Ann Camping
 date: 2004-7-15
 blurb: with family
 layout: post
+location: Lake Ann
 ---
 
 <h2>With Richard and Christina!</h2>

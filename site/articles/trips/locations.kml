@@ -1643,6 +1643,125 @@
 					<coordinates>-119.9703940485751,47.02412832563209,0</coordinates>
 				</Point>
 			</Placemark>
+			<Placemark>
+				<name>Burgundy Spire</name>
+				<LookAt>
+					<longitude>-120.5919297244183</longitude>
+					<latitude>48.55252467715611</latitude>
+					<altitude>0</altitude>
+					<heading>4.023045449927025e-09</heading>
+					<tilt>0</tilt>
+					<range>647.2926454136459</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-120.5913041104131,48.55321392464587,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lake Ann</name>
+				<LookAt>
+					<longitude>-121.6565659518608</longitude>
+					<latitude>48.83167771866199</latitude>
+					<altitude>0</altitude>
+					<heading>0.006508744412525468</heading>
+					<tilt>0</tilt>
+					<range>4464.167110047279</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.6447691734794,48.82668051953067,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mount Constance</name>
+				<LookAt>
+					<longitude>-123.1273703686325</longitude>
+					<latitude>47.77260602635162</latitude>
+					<altitude>0</altitude>
+					<heading>-1.956499478835209e-07</heading>
+					<tilt>0</tilt>
+					<range>2864.404730670148</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-123.1273703686325,47.77260602635162,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Monte Cristo Peak</name>
+				<LookAt>
+					<longitude>-121.3412286099347</longitude>
+					<latitude>47.97147409125232</latitude>
+					<altitude>0</altitude>
+					<heading>1.196259094850673e-08</heading>
+					<tilt>0</tilt>
+					<range>2767.927350280572</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.3412286099347,47.97147409125233,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Paddy Go Easy Pass</name>
+				<LookAt>
+					<longitude>-121.0600935031038</longitude>
+					<latitude>47.54483700194692</latitude>
+					<altitude>0</altitude>
+					<heading>-2.289983467880325e-09</heading>
+					<tilt>0</tilt>
+					<range>2654.943964662903</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.0600935031038,47.54483700194692,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Goose Egg Mountain</name>
+				<LookAt>
+					<longitude>-121.1134124057005</longitude>
+					<latitude>46.65178449021198</latitude>
+					<altitude>0</altitude>
+					<heading>-4.145401388522927e-09</heading>
+					<tilt>0</tilt>
+					<range>2701.405049629727</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.1134124057005,46.65178449021197,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tomyhoi Peak</name>
+				<LookAt>
+					<longitude>-121.7090295651635</longitude>
+					<latitude>48.97484935388638</latitude>
+					<altitude>0</altitude>
+					<heading>2.628138133280717e-08</heading>
+					<tilt>0</tilt>
+					<range>2583.197381695822</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-121.7090295651635,48.97484935388637,0</coordinates>
+				</Point>
+			</Placemark>
 		</Folder>
 		<Folder>
 			<name>Eastern Alps</name>

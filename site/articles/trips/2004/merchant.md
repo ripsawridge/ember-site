@@ -2,6 +2,7 @@
 title: Merchant Peak
 date: 2004-6-19
 layout: post
+location: Merchant Peak
 ---
 
 <h2>Southwest Gully</h2>
