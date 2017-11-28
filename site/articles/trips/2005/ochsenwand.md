@@ -1,8 +1,9 @@
 ---
-title: Grosse Ochsendwand
+title: Grosse Ochsenwand
 date: 2005-11-13
 blurb: klettersteig
 layout: post
+location: Grosse Ochsenwand
 ---
 
 <h2>Via ferrata on the Grosse Ochsenwand</h2>

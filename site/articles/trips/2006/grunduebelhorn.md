@@ -3,6 +3,7 @@ title: The Grunduebelhorn, South Ridge
 date: 2006-9-23
 blurb: 20 pitches with Josef
 layout: post
+location: Grundübelhorn
 ---
 
 <h2>South Ridge (UIAA V-, 20 pitches)</h2>
