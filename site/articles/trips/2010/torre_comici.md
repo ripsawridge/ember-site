@@ -3,6 +3,7 @@ title: Torre Comici, Casara Route
 date: 2010-8-5
 blurb: attempt, with Jesse
 layout: post
+location: Drei Zinnen
 ---
 
 "Casara" Route (IV+, 7 pitches)

@@ -1,8 +1,9 @@
 --- 
-title: Weissschrofen Spitze
+title: Weißschrofenspitze
 date: 2005-11-14
 blurb: klettersteig
 layout: post 
+location: Weißschrofenspitze
 --- 
 
 <h2>Hiking the Arlberger Klettersteig</h2>

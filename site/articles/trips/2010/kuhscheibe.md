@@ -3,6 +3,7 @@ title: Kuhscheibe
 date: 2010-2-26
 blurb: with Christian
 layout: post
+location: Kuhscheibe
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/ski-tour-on-the-kuhscheibe/600904)

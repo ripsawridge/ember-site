@@ -2,6 +2,7 @@
 title: The Ammergau "Director's Cut" route
 date: 2010-11-15
 layout: post
+location: Felderkopf
 ---
 
 I enjoyed a great hike yesterday, getting the idea from Summitpost [here](http://www.summitpost.org/the-ammergau-seven-summits-or-the-director-s-cut/523264).

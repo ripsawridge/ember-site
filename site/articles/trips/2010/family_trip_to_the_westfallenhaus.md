@@ -1,7 +1,8 @@
 ---
-title: Family trip to the Westfallenhaus
+title: Family trip to the Westfalenhaus
 date: 2010-8-11
 layout: post
+location: Westfalenhaus
 ---
 
 [![](http://farm5.static.flickr.com/4119/4854149112_348da7a8d8.jpg)](http://www.flickr.com/photos/ripsawridge/4854149112/)
@@ -49,7 +50,7 @@ helicopters, and all manner of similar fun!
   
   
 We rounded a corner then made a long pleasant traversing hike up to the
-Westfallenhaus, which looked impossibly distant. Sheep grazed the mountain
+Westfalenhaus, which looked impossibly distant. Sheep grazed the mountain
 above us. We arrived in late afternoon, and immediately booked a private
 room. The boys fell in love with the bunkbeds, and we all hung out in our
 beds for an hour or so. Kris invented a game where the boys had to leave

@@ -2,6 +2,7 @@
 title: Paternkofel, Northwest Ridge (Bolte/Wolf), IV (7 pitches)
 date: 2010-8-5
 layout: post
+location: Paternkofel
 ---
 
 We slept in Saturday, somehow unable to get up and do some harder climbing.

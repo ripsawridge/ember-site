@@ -1,8 +1,9 @@
 ---
-title: Laengentaler Weisser Kogel
+title: Längentaler Weißer Kogel
 date: 2006-5-1
 blurb: ski trip
 layout: post
+location: Längentaler Weißer Kogel
 ---
 
 <h2>Glacier ascent on skis</h2>

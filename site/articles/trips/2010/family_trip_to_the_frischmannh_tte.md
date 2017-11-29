@@ -2,6 +2,7 @@
 title: Family trip to the Frischmannhütte
 date: 2010-8-29
 layout: post
+location: Köfels
 ---
 
 Kris, Rowan, Elijah and I headed to the mountains at 8 am Saturday morning.

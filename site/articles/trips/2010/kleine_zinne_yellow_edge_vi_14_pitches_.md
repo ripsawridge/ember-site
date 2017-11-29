@@ -3,6 +3,7 @@ title: Kleine Zinne, Yellow Edge (VI+)
 date: 2010-8-5
 blurb: with Jesse
 layout: post
+location: Drei Zinnen
 ---
 
 * Kleine Zinne, "Yellow Edge" (VI+, 14 pitches)

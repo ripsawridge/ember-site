@@ -2,6 +2,7 @@
 title: The Montscheinspitze
 date: 2010-10-31
 layout: post
+location: Montscheinspitze
 ---
 
 October 31, 2010\.

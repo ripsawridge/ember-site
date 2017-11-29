@@ -2,6 +2,7 @@
 title: Kranzhorn hike
 date: 2010-11-6
 layout: post
+location: Kranzhorn
 ---
 
 Danno, Kris, the boys and I hiked up the Kranzhorn, maybe the last chance

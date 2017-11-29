@@ -3,6 +3,7 @@ title: Burschlwand climbing with Stephan
 date: 2010-5-1
 blurb: really fun!
 layout: post
+location: Burschlwand
 ---
 
 [![](http://farm4.static.flickr.com/3049/4569144468_4833e89f9e.jpg)](http://www.flickr.com/photos/ripsawridge/4569144468/)
