@@ -2,6 +2,7 @@
 title: Geiselstein Nordwand
 date: 2008-06-15
 layout: post
+location: Geiselstein
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/geiselstein-alte-nordwand/414600)

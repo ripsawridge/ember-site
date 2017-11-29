@@ -126,6 +126,10 @@ module.exports = function(defaults) {
         };
         // Associate the trips made at this location.
         let trips = trip_index.filter((trip) => { 
+          if (Array.isArray(trip.location)) {
+            // A trip may contain multiple locations.
+            return trip.location.includes(obj.name);
+          }
           return trip.location == obj.name; 
         });
         if (trips.length > 0) {

@@ -3,6 +3,7 @@ title: Punta Fiames, Jori Arete
 blurb: with Dan Protz
 date: 2008-05-31
 layout: post
+locatino: Punta Fiames
 ---
 
 Hexenstein South Ridge (IV+)

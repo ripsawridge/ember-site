@@ -3,7 +3,11 @@ title: Zugspitze and others
 date: 2010-6-10
 blurb: three solo peaks
 layout: post
----
+location: 
+  - Zugspitze
+  - Ehrwalder Sonnenspitze
+  - Westliche Marienbergspitze
+----
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/big-days-in-tirol/629281)
 

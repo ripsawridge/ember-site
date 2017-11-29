@@ -2,12 +2,13 @@
 title: Ski touring with Silas
 date: 2008-3-15
 layout: post
+location: Dürrenstein
 ---
 
 Silas Wild and his daughter Jen were coming to Austria for weeks of
 skiing. I knew Silas from slide shows back in Seattle, and from reading
 John Roper's entertaining story about the first ascent of the
-``Wildhair Crack" in the Picket Range. He is a spare, powerful ball of
+"Wildhair Crack" in the Picket Range. He is a spare, powerful ball of
 energy, and it was awesome to have the chance to go skiing with two
 generations of Wilds.
 

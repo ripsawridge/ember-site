@@ -3,6 +3,7 @@ title: Tofana, First Pillar (V+)
 date: 2010-8-5
 blurb: with Jesse
 layout: post
+location: Tofana des Rozes
 ---
 
 The morning after our [big adventure in the Wilder Kaiser](totenkirchl.html) we

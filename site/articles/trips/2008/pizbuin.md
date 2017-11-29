@@ -2,6 +2,7 @@
 title: Piz Buin and others
 date: 2008-2-20
 layout: post
+location: Piz Buin
 ---
 
 Also posted on Summitpost [here](http://www.summitpost.org/three-peaks-from-the-bielerh-he/397018)
