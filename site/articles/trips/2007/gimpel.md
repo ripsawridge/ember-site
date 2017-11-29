@@ -2,6 +2,7 @@
 title: Gimpel Suedostkamin
 date: 2007-3-30
 layout: post
+location: Gimpel
 ---
 
 <h2>Suedostkamin (Southeast Chimney) Route</h2>

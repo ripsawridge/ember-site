@@ -2,6 +2,7 @@
 title: Vorderer Tajakopf
 date: 2006-11-11
 layout: post
+location: Vorderer Tajakopf
 ---
 
 <h2>West Ridge Via Ferrata</h2>

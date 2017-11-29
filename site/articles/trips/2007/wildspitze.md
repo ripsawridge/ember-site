@@ -2,6 +2,7 @@
 title: The Wildspitze North Face
 date: 2007-4-15
 layout: post
+location: Wildspitze
 ---
 
 Also posted at Summitpost [here](http://www.summitpost.org/wildspitze-north-wall/282071)

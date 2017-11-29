@@ -3,6 +3,7 @@ title: Predigtstuhl Nordkante
 date: 2006-7-1
 blurb: The Wilder Kaiser!
 layout: post
+location: Predigtstuhl
 ---
 
 Also posted to Summitpost [here](http://www.summitpost.org/preaching-to-the-choir-predigtstuhl-wilder-kaiser/204608)

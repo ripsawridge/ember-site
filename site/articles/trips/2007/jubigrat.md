@@ -2,6 +2,7 @@
 title: The Jubilaeumsgrat
 date: 2007-2-20
 layout: post
+location: Zugspitze
 ---
 
 <h2>Winter climb between the Zugspitze and Alpspitze</h2>

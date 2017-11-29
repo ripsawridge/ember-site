@@ -2,6 +2,7 @@
 title: Likeke Trail
 date: 2006-12-23
 layout: post
+location: Likeke Trail
 ---
 
 <h2>From the Likelike highway to the Pali</h2>

@@ -3,6 +3,7 @@ title: Westfalenhaus hike
 date: 2006-10-1
 blurb: with Joey and Arwin
 layout: post
+location: Westfalenhaus
 ---
 
 

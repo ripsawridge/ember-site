@@ -3,6 +3,7 @@ title: The Hochwiesler
 date: 2007-4-15
 blurb: and others...
 layout: post
+location: Gimpel
 ---
 
 <h2>Four sunny climbs</h2>

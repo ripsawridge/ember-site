@@ -3,6 +3,7 @@ title: Lamsenspitze
 date: 2006-9-23
 blurb: with Danno, really fun!
 layout: post
+location: Lamsenspitze
 ---
 
 <h2>Northeast Ridge (Grade IV)</h2>

@@ -1,14 +1,15 @@
 ---
-title: The Kramerspitze
+title: The Kramerspitz
 date: 2007-2-17
 blurb: with Steve Knipple
 layout: post
+location: Kramerspitz
 ---
 
 <h2>Snow hike with Steve</h2>
 
 
-Steve K. and I went for a morning hike on the Kramerspitze. Steve lived in
+Steve K. and I went for a morning hike on the Kramerspitz. Steve lived in
 Portland before Munich, and we had a lot of hikes in the Columbia Gorge in
 common. Now a very busy father of three boys, he hasn't been able to hike
 much. So it was a great boon that we had a blue sky morning to do it.

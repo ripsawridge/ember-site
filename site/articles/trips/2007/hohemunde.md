@@ -3,6 +3,7 @@ title: The Hohe Munde (attempt)
 date: 2007-2-15
 blurb: deep snow!
 layout: post
+location: Hohe Munde
 ---
 
 

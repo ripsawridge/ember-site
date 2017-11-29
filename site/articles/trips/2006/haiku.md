@@ -3,6 +3,7 @@ title: The Haiku Stairs
 date: 2006-12-18
 blurb: fascinating Oahu hike
 layout: post
+location: Haiku Stairs
 ---
 
 <h2>An unusual trail on Oahu</h2>
