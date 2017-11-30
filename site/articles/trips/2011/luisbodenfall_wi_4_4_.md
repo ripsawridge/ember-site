@@ -2,6 +2,7 @@
 title: Luisbodenfall (WI 4/4+)
 date: 2011-2-27
 layout: post
+location: Stillebach
 ---
 
 Christian, Adrian and I had a day for some ice climbing. I chose the destination,

@@ -2,6 +2,7 @@
 title: Kampenwand with Uli
 date: 2011-5-31
 layout: post
+location: Kampenwand
 ---
 
 [![](http://farm4.static.flickr.com/3028/5750813620_486c9950d7.jpg)](http://www.flickr.com/photos/ripsawridge/5750813620/)

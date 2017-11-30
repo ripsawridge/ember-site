@@ -2,6 +2,7 @@
 title: Pu'u Konahuanui
 date: 2010-12-23
 layout: post
+title: Pu'u Konahuanui
 ---
 
 I met up with local hiker Alex ([Alika](http://www.summitpost.org/users/alika/58229) on

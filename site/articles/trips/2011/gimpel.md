@@ -3,6 +3,7 @@ title: Gimpelvorbau climbing
 date: 2011-4-15
 blurb: with Sebastian
 layout: post
+location: Gimpel
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/a-few-good-pitches/711474)

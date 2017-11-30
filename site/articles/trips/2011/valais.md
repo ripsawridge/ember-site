@@ -1,8 +1,11 @@
 ---
-title: Obergabelhorn, Zinalrothorn
+title: Ober Gabelhorn, Zinalrothorn
 date: 2011-08-15
 blurb: with Pete
 layout: post
+location:
+  - Ober Gabelhorn
+  - Zinalrothorn
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/a-few-good-days-in-the-valais/758781)

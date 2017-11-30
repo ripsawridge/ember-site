@@ -2,6 +2,7 @@
 title: Predigtstuhl Nordkante (IV)
 date: 2011-8-14
 layout: post
+location: Predigtstuhl
 ---
 
 David and Mike were going to fly into Munich to visit the Eastern Alps

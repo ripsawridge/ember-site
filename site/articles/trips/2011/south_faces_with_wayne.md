@@ -2,6 +2,10 @@
 title: South Faces with Wayne
 date: 2011-11-2
 layout: post
+location:
+  - Martinswand
+  - Ciavazes
+  - Sas Ciampac
 ---
 
 [![](http://farm7.static.flickr.com/6116/6306077970_d4d622f594.jpg)](http://www.flickr.com/photos/ripsawridge/6306077970/)

@@ -2,6 +2,10 @@
 title: More Stubai skiing
 date: 2011-1-10
 layout: post
+location:
+  - Geier
+  - Lampsenspitz
+  - Rietzer Grießkogel
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/the-playground-of-innsbruck/690931)
@@ -14,7 +18,7 @@ I was looking forward to a solo trip to the mountains to get some exercise and m
 In the end I skied:
 <ul>
 <li>Geier (1500 meters)</li>
-<li>Lampsenspitze (1200 meters)</li>
+<li>Lampsenspitz (1200 meters)</li>
 <li>Rietzer Grieskogel (1000 meters</li>
 </ul>
 
@@ -49,7 +53,7 @@ I listed to more of the book <a href="http://www.amazon.com/Unbroken-World-Survi
 
 I went back to the great pension in Gries that I'd been to the week before. The old couple who ran the place were happy to see me. They said lots of people come and don't talk to anyone. They were really happy that other guests and myself talked to each other at breakfast.
 
-Day 2: Lampsenspitze, Bafflfall
+Day 2: Lampsenspitz, Bafflfall
 ---
 
 <center><table class='thumb'><tr><td><div><div style="width:770px;height:600px;overflow:auto;"><img src="http://c0278592.cdn.cloudfiles.rackspacecloud.com/original/690938.jpg"></div><div class='magnify' style='float: right; margin-top: 5px;'><a href='/view_object.php?object_id=690938' title='View Pano'> <img src='/images/layout/abby/magnify.gif' alt='Enlarge'></img></a></div>summit panorama from Lampsenspitze</div></td></tr></table></center>

@@ -2,6 +2,7 @@
 title: Night hike in the Rofangebirge
 date: 2011-6-6
 layout: post
+location: Rofan Nord
 ---
 
 Sometime around 5:30 in the evening I left Munich for the mountains. I

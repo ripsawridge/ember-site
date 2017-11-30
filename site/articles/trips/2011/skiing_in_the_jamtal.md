@@ -2,6 +2,7 @@
 title: Skiing in the Jamtal
 date: 2011-3-14
 layout: post
+location: Rauer Kopf
 ---
 
 Saturday morning I was skiing up from Galtür at 7:30\. I made it to just
@@ -27,7 +28,7 @@ the right. A short steep slope facing south led to the summit. No worries
 of avalanche today. A group of 5 french-speaking folks came awkwardly down
 the frozen slope. I made new tracks to get up as my skins were slipping
 in polished tracks. Stashing my skis in a semi-protected area, I clambered
-to the summit, holding my breath for the final dash across a rooftop in
+to the summit of the Rauer Kopf, holding my breath for the final dash across a rooftop in
 violent wind. I hunkered down behind some rocks and started alternately
 taking pictures and warming my hands. The sky was blue and the sun was
 out, but the good weather was coming to an end. Clouds scraped by Piz Buin
