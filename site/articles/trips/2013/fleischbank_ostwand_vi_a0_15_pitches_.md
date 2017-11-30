@@ -2,6 +2,7 @@
 title: Fleischbank Ostwand (VI/A0, 15 pitches)
 date: 2013-7-7
 layout: post
+location: Fleischbank
 ---
 
 [![](http://farm8.static.flickr.com/7289/9227423177_ae160054a7.jpg)](http://www.flickr.com/photos/ripsawridge/9227423177/)

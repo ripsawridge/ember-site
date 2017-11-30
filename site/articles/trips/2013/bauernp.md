@@ -2,6 +2,7 @@
 title: Bauernpredigtstuhl Climbing
 date: 2013-8-25
 layout: post
+location: Bauernpredigtstuhl
 ---
 
 <a href="http://www.flickr.com/photos/ripsawridge/9587361033/"><img align="left" src="http://farm6.static.flickr.com/5510/9587361033_e52a8251be.jpg" /></a>

@@ -3,6 +3,7 @@ title: Mount Maudit, Frontier Ridge
 date: 2013-08-11
 blurb: with Pete and Georg
 layout: post
+location: Mont Maudit
 ---
 
 Also posted to Summitpost.org [here](http://www.summitpost.org/the-frontier-ridge-mount-maudit/882727).
