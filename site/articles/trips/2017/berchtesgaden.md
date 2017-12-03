@@ -3,6 +3,9 @@ title: Berchtesgaden climbing
 date: 2017-10-14
 blurb: with Barbara
 layout: post
+location: 
+  - Hoher Göll
+  - Hohes Brett
 ----
 
 <a href='https://www.flickr.com/photos/55338612@N00/37727717781'>

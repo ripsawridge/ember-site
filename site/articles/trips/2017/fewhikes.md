@@ -3,6 +3,11 @@ title: A few hikes
 date: 2017-5-18
 blurb: 
 layout: post
+location:
+  - Pendling
+  - Wendelstein
+  - Breitenstein
+  - Hählensteinhaus
 ---
 
 <a href='https://www.flickr.com/photos/55338612@N00/34407977960'>

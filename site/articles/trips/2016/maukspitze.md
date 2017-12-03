@@ -3,6 +3,7 @@ title: Maukspitze
 date: 2016-10-31
 blurb: with Barbara
 layout: post
+location: Maukspitze
 ---
 
 <a href='https://www.flickr.com/photos/55338612@N00/30609643681'>

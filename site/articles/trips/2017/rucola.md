@@ -3,6 +3,7 @@ title: Rucola on the Martinswand (V+/VI-)
 date: 2017-4-15
 blurb: with Barbara
 layout: post
+location: Martinswand
 ---
 <a href='https://www.flickr.com/photos/55338612@N00/33939492041'>
 <img src='https://farm3.static.flickr.com/2822/33939492041_0259055626_b.jpg'></a>

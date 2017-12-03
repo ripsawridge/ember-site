@@ -3,6 +3,7 @@ title: From Munich to Dietramszell
 date: 2015-1-31
 blurb: long, long walk
 layout: post
+location: Dietramszell
 ---
 
 _25 miles on snowy roads..._

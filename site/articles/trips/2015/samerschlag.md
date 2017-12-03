@@ -3,6 +3,7 @@ title: Samerschlag
 date: 2015-2-15
 blurb: with Josef and Benoit
 layout: post
+location: Samerschlag
 ---
 
 Josef, Benoit and I headed to the mountains for a ski tour. It would be my first

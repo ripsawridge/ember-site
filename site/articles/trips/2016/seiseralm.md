@@ -3,6 +3,9 @@ title: Seiser Alm trip
 date: 2016-11-1
 blurb: with Elijah
 layout: post
+location:
+  - Seiser Alm
+  - Schlern
 ---
 
 Elijah and I spent 5 days in the Seiser Alm. It was a fantastic trip!

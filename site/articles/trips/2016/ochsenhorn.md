@@ -3,6 +3,7 @@ title: Grosses Ochsenhorn
 date: 2016-9-3
 blurb: with Barbara
 layout: post
+location: Ochser Horn
 ---
 
 Barbara and I did a really, really big hike, up the Grosses Ochsenhorn.

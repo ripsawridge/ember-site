@@ -3,6 +3,7 @@ title: Brandenberg Training Day
 date: 2015-5-1
 blurb: with Jakob
 layout: post
+location: Voldöpperspitze
 ---
 
 

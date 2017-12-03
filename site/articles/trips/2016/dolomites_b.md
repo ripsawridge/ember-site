@@ -3,6 +3,9 @@ title: Dolomites
 date: 2016-8-5
 blurb: with Barbara
 layout: post
+location:
+  - Cinque Torri
+  - Hexenstein
 ---
 
 <a href='https://www.flickr.com/photos/55338612@N00/28470757324'>

@@ -3,6 +3,9 @@ title: Woelkenstein climbing
 date: 2017-10-27
 blurb: with Barbara
 layout: post
+location:
+  - Wolkenstein
+  - Stevia
 ----
 
 <a href='https://www.flickr.com/photos/55338612@N00/38064439406'>
