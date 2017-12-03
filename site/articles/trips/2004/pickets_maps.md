@@ -5,7 +5,7 @@ report: no
 layout: post
 ---
 
-_back to [Picket Range Traverse](pickets.html)..._
+*back to [Picket Range Traverse](#/sections/trips/2004_pickets)...*
 
 The first map is an overview of the whole trip, which started from Ross Lake
 and ended at the Goodell Creek trailhead, where we left a car. The closely

@@ -64,6 +64,7 @@ module.exports = function(defaults) {
     blogPost.title = doc.title;
     blogPost.blurb = doc.blurb;
     blogPost.location = doc.location;
+    blogPost.report = doc.report;
 
     if (!doc.location) {
       console.log(ymlName + " doesn't have a location");
@@ -95,6 +96,7 @@ module.exports = function(defaults) {
               date : project.date,
               blurb: project.blurb,
 	      location: project.location,
+	      report: project.report == "no" ? "no" : undefined,
               slug: fileName
             });
     });

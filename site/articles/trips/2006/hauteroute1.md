@@ -5,7 +5,8 @@ layout: post
 location: Lake Moiry
 ---
 
-_forward to [part two](hauteroute2.html) or [part three](hauteroute3.html)..._
+*forward to [part two](#/sections/trips/2006_hauteroute2) or
+[part three](#/sections/trips/2006_hauteroute3)...*
 
 <h3>Saturday</h3>
 
@@ -379,5 +380,5 @@ shower. Who hoo!
 <hr>
 
 
-<a href="hauteroute2.html">Continue</a> to read part two...
+[Continue](#/sections/trips/2006_hauteroute2) to read part two...
 

@@ -9,10 +9,10 @@ location:
   - Mount Terror
 ---
 
-* [Maps](pickets_maps.html)
-* [Route topos](pickets_topos.html)
-* [The Players](pickets_players.html)
-* [Equipment](pickets_equipment.html)
+* [Maps](#/sections/trips/2004_pickets_maps)
+* [Route topos](#/sections/trips/2004_pickets_topos)
+* [The Players](#/sections/trips/2004_pickets_players)
+* [Equipment](#/sections/trips/2004_pickets_equipment)
 
 _Quick Version: Three of us made a 6 day traverse of the Picket Range, blessed by
 good weather in mid-August. We hiked in via Big Beaver Creek, then bushwhacked

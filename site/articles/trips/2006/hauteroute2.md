@@ -5,7 +5,8 @@ report: no
 layout: post
 ---
 
-_back to [part one](hauteroute1.html) or forward to [part three](hauteroute3.html)..._
+*back to [part one](#/sections/trips/2006_hauteroute1) or forward 
+to [part three](#/sections/trips/2006_hauteroute3)...*
 
 <h3>Tuesday</h3>
 
@@ -498,5 +499,5 @@ punishment for skipping a day of the hike!
 <hr>
 
 
-<a href="hauteroute3.html">Continue</a> to read part three...
+[Continue](#/sections/trips/2006_hauteroute3) to read part three...
 

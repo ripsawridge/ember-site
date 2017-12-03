@@ -5,7 +5,7 @@ report: no
 layout: post
 ---
 
-_back to [Picket Range Traverse](pickets.html)..._
+*back to [Picket Range Traverse](#/sections/trips/2004_pickets)...*
 
 Here is a detail of the lower section of Mt. Fury's North Buttress.
 It can be approached from the left or the right. We chose to use the right

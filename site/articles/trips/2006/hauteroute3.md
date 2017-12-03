@@ -5,7 +5,8 @@ report: no
 layout: post
 ---
 
-_back to [part two](hauteroute2.html) or [part one](hauteroute1.html)..._
+*back to [part two](#/sections/trips/2006_hauteroute2) 
+or [part one](#/sections/trips/2006_hauteroute1)...*
 
 <h3>Friday</h3>
 

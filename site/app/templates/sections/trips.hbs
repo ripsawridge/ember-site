@@ -59,13 +59,17 @@
                 </thead>
                 <tbody>
                     {{#each model as |trip|}}
-                    <tr> <td>{{date-mmyyyy trip.date}}</td>
-                    <td>{{#link-to 'sections.trip' trip.slug}}
-                        {{trip.title}}
-                        {{/link-to}}
-                    </td> 
-                    <td>{{trip.blurb}}</td> 
-                    </tr>
+                      {{#if trip.report}}
+                      {{else}}
+                        <tr>
+                          <td>{{date-mmyyyy trip.date}}</td>
+                          <td>{{#link-to 'sections.trip' trip.slug}}
+                              {{trip.title}}
+                              {{/link-to}}
+                          </td>
+                          <td>{{trip.blurb}}</td>
+                        </tr>
+                      {{/if}}
                     {{/each}}
                 </tbody>
             </table>

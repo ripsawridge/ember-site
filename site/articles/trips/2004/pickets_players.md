@@ -5,7 +5,7 @@ report: no
 layout: post
 ---
 
-_back to [Picket Range Traverse](pickets.html)..._
+*back to [Picket Range Traverse](#/sections/trips/2004_pickets)...*
 
 The Players
 ---
