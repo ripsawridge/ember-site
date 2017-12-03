@@ -1,7 +1,10 @@
 ---
-title: Cinque Torre
+title: Cinque Torri
 date: 2012-7-3
 layout: post
+location: 
+  - Cinque Torri
+  - Hexenstein
 ---
 
 My old friend Aidan was in town for an interesting filming project. We

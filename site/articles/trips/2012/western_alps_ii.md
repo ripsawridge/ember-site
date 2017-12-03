@@ -3,6 +3,12 @@ title: Western Alps, part 2
 date: 2012-08-20
 blurb: with Georg
 layout: post
+location:
+  - Grand Combin
+  - Mont Blanc du Tacul
+  - Alphubel
+  - Täschhorn
+  - Dom
 ---
 
 PART II. Part I is [here](western_alps_i.html)

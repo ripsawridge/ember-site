@@ -2,6 +2,7 @@
 title: Herzschlag der Leidenschaft (VI+/A0)
 date: 2012-6-16
 layout: post
+location: Sonnjoch
 ---
 
 Also posted on cascadeclimbers.com [here](http://cascadeclimbers.com/forum/ubbthreads.php?ubb=showflat&Number=1072660).

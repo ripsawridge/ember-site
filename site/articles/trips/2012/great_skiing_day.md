@@ -2,6 +2,7 @@
 title: Great skiing day
 date: 2012-3-4
 layout: post
+location: Brandstadl
 ---
 
 Last weekend Kris and I took the boys skiing, they hadn't been in a year

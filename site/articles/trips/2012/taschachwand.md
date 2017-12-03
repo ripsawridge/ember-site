@@ -3,6 +3,7 @@ title: Taschachwand and Petersenspitze
 date: 2012-03-15
 blurb: with Georg and Timo
 layout: post
+location: Petersenspitze
 ---
 
 Also posted on Summitpost.org [here](http://www.summitpost.org/the-pitztal-shuttle-bus/782806).
