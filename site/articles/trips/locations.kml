@@ -1820,7 +1820,403 @@
 			</Placemark>
 		</Folder>
 		<Folder>
-			<name>Eastern Alps</name>
+			<name>Western Alps</name>
+			<Placemark>
+				<name>Ober Gabelhorn</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>7.670040755992308</longitude>
+					<latitude>46.0387156225731</latitude>
+					<altitude>0</altitude>
+					<heading>0.008287445531451821</heading>
+					<tilt>22.70562568321198</tilt>
+					<range>3157.504100678237</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>7.66770654260609,46.03816399719746,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alphubel</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>7.868800742307825</longitude>
+					<latitude>46.06586453965448</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1081357017315441</heading>
+					<tilt>18.6335564948467</tilt>
+					<range>4745.345165629667</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>7.863290897068267,46.06288629138685,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Täschhorn</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>7.854657624564478</longitude>
+					<latitude>46.08948095483674</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1183260572806067</heading>
+					<tilt>28.86251714136989</tilt>
+					<range>3180.281085772834</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>7.857190787879269,46.0833566684416,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dent d&apos;Herens</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>7.601372016372643</longitude>
+					<latitude>45.97023958355216</latitude>
+					<altitude>0</altitude>
+					<heading>-0.002684202462806227</heading>
+					<tilt>0</tilt>
+					<range>2926.462635187019</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>7.605308557513961,45.9696072602601,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ailefroide</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>6.438125039599665</longitude>
+					<latitude>44.89485956535562</latitude>
+					<altitude>0</altitude>
+					<heading>-0.006036320268793816</heading>
+					<tilt>0</tilt>
+					<range>8533.406783567605</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>6.445932111128998,44.88736020169602,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dom</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>7.853066531381471</longitude>
+					<latitude>46.09772795603237</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1194728979369186</heading>
+					<tilt>28.86049544358502</tilt>
+					<range>2805.294550402829</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>7.858753559932714,46.09353652100154,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Meije</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>6.304997812566844</longitude>
+					<latitude>45.01177488144148</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001565438338213665</heading>
+					<tilt>15.78803593021727</tilt>
+					<range>5794.646669282949</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>6.308125777369337,45.00431333022373,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Refuge de l&apos;Arpont</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>6.788222859819004</longitude>
+					<latitude>45.32293233494416</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0442699903263556</heading>
+					<tilt>32.68744971594563</tilt>
+					<range>4110.518401448115</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>6.793147312380152,45.31914633925622,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Refuge de la Valette</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>6.715544205752349</longitude>
+					<latitude>45.37618558611013</latitude>
+					<altitude>0</altitude>
+					<heading>-0.09549674413163671</heading>
+					<tilt>34.86689592114533</tilt>
+					<range>8310.302188256355</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>6.723872295637441,45.35234187167472,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Refuge de la Dent Parachee</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>6.70063535756277</longitude>
+					<latitude>45.26076563826997</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1074716315754802</heading>
+					<tilt>28.76757995418816</tilt>
+					<range>5415.597474329744</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>6.719161734022467,45.26967916734886,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aussois</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>6.734505973105984</longitude>
+					<latitude>45.23262584945545</latitude>
+					<altitude>0</altitude>
+					<heading>-0.08340942417551751</heading>
+					<tilt>28.77477667695858</tilt>
+					<range>7081.054962310698</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>6.74185907037959,45.22794418926395,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Weissmies</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>8.002137880466728</longitude>
+					<latitude>46.12880679009594</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0101920381478444</heading>
+					<tilt>0</tilt>
+					<range>5614.902216367491</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>8.012219509815754,46.12690847719757,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mont Blanc du Tacul</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>6.887794964759174</longitude>
+					<latitude>45.86562772667732</latitude>
+					<altitude>0</altitude>
+					<heading>-0.8127172668193772</heading>
+					<tilt>20.85818776676734</tilt>
+					<range>3660.672329392286</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>6.887978233345622,45.8566294841169,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Zinalrothorn</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>7.689942020422301</longitude>
+					<latitude>46.06412304813478</latitude>
+					<altitude>0</altitude>
+					<heading>0.0226227292672966</heading>
+					<tilt>31.26898719308979</tilt>
+					<range>1786.763527093289</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>7.689942236177833,46.06450710961801,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Grave</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>6.298619259244476</longitude>
+					<latitude>45.05100502620745</latitude>
+					<altitude>0</altitude>
+					<heading>-0.004721508928298231</heading>
+					<tilt>23.17796754088492</tilt>
+					<range>3789.258337764818</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>6.304848017327151,45.04551282089114,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Matterhorn</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>7.658458670933124</longitude>
+					<latitude>45.9765775320984</latitude>
+					<altitude>0</altitude>
+					<heading>-1.515087501395714e-07</heading>
+					<tilt>0</tilt>
+					<range>2763.921493884457</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>7.658458670933124,45.9765775320984,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Zermatt</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>7.749581395357423</longitude>
+					<latitude>46.02094882428536</latitude>
+					<altitude>0</altitude>
+					<heading>-6.589857711756008e-06</heading>
+					<tilt>0</tilt>
+					<range>22665.65064201357</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>7.749581395357423,46.02094882428536,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Aiguille Verte</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>6.96907877435639</longitude>
+					<latitude>45.95555965565605</latitude>
+					<altitude>0</altitude>
+					<heading>-0.9902908261594948</heading>
+					<tilt>38.59328231226717</tilt>
+					<range>5980.106363775064</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>6.969966346816838,45.93441464340079,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grand Combin</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>7.26400484713432</longitude>
+					<latitude>45.97152397214057</latitude>
+					<altitude>0</altitude>
+					<heading>-0.7759079853531904</heading>
+					<tilt>0.5292046707876458</tilt>
+					<range>25686.64425444297</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>7.300263090410599,45.93635843420341,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mont Maudit</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>6.870953679228591</longitude>
+					<latitude>45.85657967889731</latitude>
+					<altitude>0</altitude>
+					<heading>-1.060619578143212</heading>
+					<tilt>33.63665079850209</tilt>
+					<range>3403.014412111402</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>6.875119253031306,45.8476782920192,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mont Blanc</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>6.861641499735256</longitude>
+					<latitude>45.84080266988361</latitude>
+					<altitude>0</altitude>
+					<heading>-1.067281933773058</heading>
+					<tilt>25.19982647770279</tilt>
+					<range>3331.127256448588</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>6.86441008031445,45.83217529675168,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jungfrau</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>7.957459877194316</longitude>
+					<latitude>46.53214614664219</latitude>
+					<altitude>0</altitude>
+					<heading>-0.2718594509317076</heading>
+					<tilt>1.203387287290477</tilt>
+					<range>16423.49635317581</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>7.960213357548058,46.53891229680083,0</coordinates>
+				</Point>
+			</Placemark>
 			<Placemark>
 				<name>Chamonix</name>
 				<LookAt>
@@ -1838,6 +2234,9 @@
 					<coordinates>6.869432917928842,45.92369691100164,0</coordinates>
 				</Point>
 			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Eastern Alps</name>
 			<Placemark>
 				<name>Zugspitze</name>
 				<LookAt>
@@ -2108,91 +2507,6 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>12.32309731061822,47.57045088320738,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Jungfrau</name>
-				<LookAt>
-					<longitude>7.957459877194316</longitude>
-					<latitude>46.53214614664219</latitude>
-					<altitude>0</altitude>
-					<heading>-0.2718594509317076</heading>
-					<tilt>1.203387287290477</tilt>
-					<range>16423.49635317581</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>7.960213357548058,46.53891229680083,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Grand Combin</name>
-				<LookAt>
-					<longitude>7.26400484713432</longitude>
-					<latitude>45.97152397214057</latitude>
-					<altitude>0</altitude>
-					<heading>-0.7759079853531904</heading>
-					<tilt>0.5292046707876458</tilt>
-					<range>25686.64425444297</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>7.300263090410599,45.93635843420341,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Mont Blanc</name>
-				<LookAt>
-					<longitude>6.861641499735256</longitude>
-					<latitude>45.84080266988361</latitude>
-					<altitude>0</altitude>
-					<heading>-1.067281933773058</heading>
-					<tilt>25.19982647770279</tilt>
-					<range>3331.127256448588</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>6.86441008031445,45.83217529675168,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Mont Maudit</name>
-				<LookAt>
-					<longitude>6.870953679228591</longitude>
-					<latitude>45.85657967889731</latitude>
-					<altitude>0</altitude>
-					<heading>-1.060619578143212</heading>
-					<tilt>33.63665079850209</tilt>
-					<range>3403.014412111402</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>6.875119253031306,45.8476782920192,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Aiguille Verte</name>
-				<LookAt>
-					<longitude>6.96907877435639</longitude>
-					<latitude>45.95555965565605</latitude>
-					<altitude>0</altitude>
-					<heading>-0.9902908261594948</heading>
-					<tilt>38.59328231226717</tilt>
-					<range>5980.106363775064</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>6.969966346816838,45.93441464340079,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -2672,23 +2986,6 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Zermatt</name>
-				<LookAt>
-					<longitude>7.749581395357423</longitude>
-					<latitude>46.02094882428536</latitude>
-					<altitude>0</altitude>
-					<heading>-6.589857711756008e-06</heading>
-					<tilt>0</tilt>
-					<range>22665.65064201357</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin0</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>7.749581395357423,46.02094882428536,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Innsbrucker Klettersteig</name>
 				<LookAt>
 					<longitude>11.36880833693324</longitude>
@@ -2723,23 +3020,6 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>La Grave</name>
-				<LookAt>
-					<longitude>6.298619259244476</longitude>
-					<latitude>45.05100502620745</latitude>
-					<altitude>0</altitude>
-					<heading>-0.004721508928298231</heading>
-					<tilt>23.17796754088492</tilt>
-					<range>3789.258337764818</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin0</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>6.304848017327151,45.04551282089114,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Laliderer Spitze</name>
 				<LookAt>
 					<longitude>11.50027689243172</longitude>
@@ -2754,23 +3034,6 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>11.50027689243172,47.39138851057864,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Matterhorn</name>
-				<LookAt>
-					<longitude>7.658458670933124</longitude>
-					<latitude>45.9765775320984</latitude>
-					<altitude>0</altitude>
-					<heading>-1.515087501395714e-07</heading>
-					<tilt>0</tilt>
-					<range>2763.921493884457</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin0</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>7.658458670933124,45.9765775320984,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -3505,40 +3768,6 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Zinalrothorn</name>
-				<LookAt>
-					<longitude>7.689942020422301</longitude>
-					<latitude>46.06412304813478</latitude>
-					<altitude>0</altitude>
-					<heading>0.0226227292672966</heading>
-					<tilt>31.26898719308979</tilt>
-					<range>1786.763527093289</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin0</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>7.689942236177833,46.06450710961801,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Ober Gabelhorn</name>
-				<LookAt>
-					<longitude>7.670040755992308</longitude>
-					<latitude>46.0387156225731</latitude>
-					<altitude>0</altitude>
-					<heading>0.008287445531451821</heading>
-					<tilt>22.70562568321198</tilt>
-					<range>3157.504100678237</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin0</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>7.66770654260609,46.03816399719746,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Wilde Leck</name>
 				<LookAt>
 					<longitude>11.06182654913046</longitude>
@@ -3930,88 +4159,207 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Weissmies</name>
+				<name>Habicht</name>
 				<LookAt>
-					<longitude>8.002137880466728</longitude>
-					<latitude>46.12880679009594</latitude>
+					<longitude>11.28831679356699</longitude>
+					<latitude>47.04152360718246</latitude>
 					<altitude>0</altitude>
-					<heading>-0.0101920381478444</heading>
-					<tilt>0</tilt>
-					<range>5614.902216367491</range>
+					<heading>2.645713898651157</heading>
+					<tilt>18.65636938610465</tilt>
+					<range>5783.682322164486</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>#m_ylw-pushpin</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>8.012219509815754,46.12690847719757,0</coordinates>
+					<coordinates>11.2893607952585,47.04319674478707,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Mont Blanc du Tacul</name>
+				<name>Hochfeiler</name>
 				<LookAt>
-					<longitude>6.887794964759174</longitude>
-					<latitude>45.86562772667732</latitude>
+					<longitude>11.7263444423991</longitude>
+					<latitude>46.97753331243162</latitude>
 					<altitude>0</altitude>
-					<heading>-0.8127172668193772</heading>
-					<tilt>20.85818776676734</tilt>
-					<range>3660.672329392286</range>
+					<heading>2.965886489876479</heading>
+					<tilt>20.38337967550209</tilt>
+					<range>4128.205006080442</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>#m_ylw-pushpin</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>6.887978233345622,45.8566294841169,0</coordinates>
+					<coordinates>11.72760987945836,46.97221582172763,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Alphubel</name>
+				<name>Lamsenjochhütte</name>
 				<LookAt>
-					<longitude>7.868800742307825</longitude>
-					<latitude>46.06586453965448</latitude>
+					<longitude>11.60254072845594</longitude>
+					<latitude>47.38889569554638</latitude>
 					<altitude>0</altitude>
-					<heading>-0.1081357017315441</heading>
-					<tilt>18.6335564948467</tilt>
-					<range>4745.345165629667</range>
+					<heading>2.875028499032333</heading>
+					<tilt>22.75173618530828</tilt>
+					<range>4594.627696124881</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>#m_ylw-pushpin</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>7.863290897068267,46.06288629138685,0</coordinates>
+					<coordinates>11.60270139248326,47.37975542931405,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Täschhorn</name>
+				<name>Hoher Göll</name>
 				<LookAt>
-					<longitude>7.854657624564478</longitude>
-					<latitude>46.08948095483674</latitude>
+					<longitude>13.06696761887543</longitude>
+					<latitude>47.60275542191503</latitude>
 					<altitude>0</altitude>
-					<heading>-0.1183260572806067</heading>
-					<tilt>28.86251714136989</tilt>
-					<range>3180.281085772834</range>
+					<heading>3.95462510558147</heading>
+					<tilt>43.77515218788594</tilt>
+					<range>1792.058680849861</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>#m_ylw-pushpin</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>7.857190787879269,46.0833566684416,0</coordinates>
+					<coordinates>13.06705923606325,47.59398912819686,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Dom</name>
+				<name>Dremelspitze</name>
 				<LookAt>
-					<longitude>7.853066531381471</longitude>
-					<latitude>46.09772795603237</latitude>
+					<longitude>10.59655493453633</longitude>
+					<latitude>47.24403276144091</latitude>
 					<altitude>0</altitude>
-					<heading>-0.1194728979369186</heading>
-					<tilt>28.86049544358502</tilt>
-					<range>2805.294550402829</range>
+					<heading>3.107453510898585</heading>
+					<tilt>37.92004134763041</tilt>
+					<range>4877.784419299862</range>
 					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 				</LookAt>
 				<styleUrl>#m_ylw-pushpin</styleUrl>
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>7.858753559932714,46.09353652100154,0</coordinates>
+					<coordinates>10.59558598972433,47.23492410728441,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parseierspitze</name>
+				<LookAt>
+					<longitude>10.48717600532209</longitude>
+					<latitude>47.18727678538713</latitude>
+					<altitude>0</altitude>
+					<heading>3.027199589651603</heading>
+					<tilt>41.7685636096673</tilt>
+					<range>5641.213833665363</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>10.47821466764062,47.17352729106481,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vorderer Karlspitze</name>
+				<LookAt>
+					<longitude>12.31833713600282</longitude>
+					<latitude>47.56449040044916</latitude>
+					<altitude>0</altitude>
+					<heading>4.373899963360413</heading>
+					<tilt>40.25217816613514</tilt>
+					<range>1253.620290659092</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.31762623468452,47.56344936019619,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lappach</name>
+				<LookAt>
+					<longitude>11.81015736408266</longitude>
+					<latitude>46.93030121812211</latitude>
+					<altitude>0</altitude>
+					<heading>4.001200234624012</heading>
+					<tilt>25.23677054884261</tilt>
+					<range>6745.878160386498</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.80349361139201,46.91759840413063,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chemnitzer Hütte</name>
+				<LookAt>
+					<longitude>11.80975586634626</longitude>
+					<latitude>46.95950412508851</latitude>
+					<altitude>0</altitude>
+					<heading>4.000908201445188</heading>
+					<tilt>35.46726956716328</tilt>
+					<range>2219.542321393636</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.80825767616842,46.95740917745681,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edelrauthütte</name>
+				<LookAt>
+					<longitude>11.73806362095884</longitude>
+					<latitude>46.94904953901901</latitude>
+					<altitude>0</altitude>
+					<heading>3.948530751674131</heading>
+					<tilt>37.17956484805004</tilt>
+					<range>2673.29649385337</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.73823080227081,46.94777388949397,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Scheffauer</name>
+				<LookAt>
+					<longitude>12.24564355434334</longitude>
+					<latitude>47.55954875275732</latitude>
+					<altitude>0</altitude>
+					<heading>4.322051378885186</heading>
+					<tilt>32.8673650313684</tilt>
+					<range>1776.100855639898</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.24491263483182,47.5581058059761,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tridentina Klettersteig</name>
+				<LookAt>
+					<longitude>11.81699199659144</longitude>
+					<latitude>46.55088651035683</latitude>
+					<altitude>0</altitude>
+					<heading>4.00994359611419</heading>
+					<tilt>41.35450126809102</tilt>
+					<range>2399.364935423535</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.81646207289839,46.54177822267695,0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>

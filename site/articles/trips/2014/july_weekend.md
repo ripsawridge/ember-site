@@ -2,6 +2,7 @@
 title: The Lamsenjoch weekend
 date: 2014-7-14
 layout: post
+location: Lamsenjochhütte
 ---
 
 <a href='https://www.flickr.com/photos/55338612@N00/14403377298'>

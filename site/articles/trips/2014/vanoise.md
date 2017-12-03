@@ -3,6 +3,11 @@ title: Hiking in the Vanoise
 date: 2014-8-15
 layout: post
 blurb: 4 days alone
+location:
+  - Aussois
+  - Refuge de la Dent Parachee
+  - Refuge de la Valette
+  - Refuge de l'Arpont
 ---
 
 <a href='https://www.flickr.com/photos/55338612@N00/15004754251'>

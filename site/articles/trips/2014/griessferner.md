@@ -3,6 +3,7 @@ title: Hochfernerspitze, Griessferner Glacier
 date: 2014-5-30
 blurb: with Georg
 layout: post
+location: Hochfernerspitze
 ---
 
 _Here is a little video_:

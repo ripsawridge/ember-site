@@ -3,6 +3,7 @@ title: Tannheimer rock climbs
 date: 2014-5-20
 blurb: with Benoit
 layout: post
+location: Gimpel
 ---
 
 _Here is a little video_:

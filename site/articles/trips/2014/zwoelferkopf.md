@@ -2,6 +2,9 @@
 title: Zwölferkopf and a night out
 date: 2014-7-19
 layout: post
+location:
+  - Zwölferkopf
+  - Zugspitze
 ---
 
 <a href='https://www.flickr.com/photos/55338612@N00/14515800317'>

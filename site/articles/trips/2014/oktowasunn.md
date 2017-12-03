@@ -3,6 +3,7 @@ title: Oktowasunn (VII-)
 date: 2014-10-10
 layout: post
 blurb: on the Vorderer Karlspitze
+location: Vorderer Karlspitze
 ---
 
 <a href='https://www.flickr.com/photos/55338612@N00/15750926362'>

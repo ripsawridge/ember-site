@@ -3,6 +3,7 @@ title: Tridentina
 date: 2014-9-30
 layout: post
 blurb: with family and Cesar!
+location: Tridentina Klettersteig
 ---
 
 <a href='https://www.flickr.com/photos/55338612@N00/15360221506'>

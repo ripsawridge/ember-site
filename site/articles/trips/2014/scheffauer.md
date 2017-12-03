@@ -2,6 +2,7 @@
 title: Scheffauer
 date: 2014-7-26
 layout: post
+location: Scheffauer
 ---
 
 <a href='https://www.flickr.com/photos/55338612@N00/14732815586'>

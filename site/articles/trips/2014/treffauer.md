@@ -3,6 +3,7 @@ title: Treffauer Jubiläumsweg 2000
 date: 2014-8-22
 layout: post
 blurb: with Georg
+location: Treffauer
 ---
 
 <a href='https://www.flickr.com/photos/55338612@N00/14822264367'>

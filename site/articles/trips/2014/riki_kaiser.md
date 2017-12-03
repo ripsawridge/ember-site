@@ -3,6 +3,7 @@ title: Predigtstuhl Nordkante (IV+)
 date: 2014-6-22
 blurb: with Riki
 layout: post
+location: Predigtstuhl
 ---
 
 *Update*: Riki wrote a very nice report of her own with all kinds of climbery

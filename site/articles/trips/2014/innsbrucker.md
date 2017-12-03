@@ -3,6 +3,7 @@ title: Innsbrucker Klettersteig with Rowan
 date: 2014-10-12
 layout: post
 blurb:
+location: Innsbrucker Klettersteig
 ---
 
 <a href='https://www.flickr.com/photos/55338612@N00/15525528121'>

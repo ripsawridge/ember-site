@@ -3,6 +3,9 @@ title: The Lechtal Directors Cut
 date: 2014-9-15
 layout: post
 blurb: Amazing journey...
+location:
+  - Dremelspitze
+  - Parseierspitze
 ---
 
 I made a small movie about the hike too:

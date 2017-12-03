@@ -2,6 +2,10 @@
 title: Hiking in the Pfunderer Berge
 date: 2014-7-28
 layout: post
+location:
+  - Lappach
+  - Chemnitzer Hütte
+  - Edelrauthütte
 ---
 
 

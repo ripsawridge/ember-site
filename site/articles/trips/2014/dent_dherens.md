@@ -3,6 +3,9 @@ title: Ailefroide rock and Dent d'Herens
 date: 2014-8-10
 layout: post
 blurb: with Pete!
+location:
+  - Ailefroide
+  - Dent d'Herens
 ---
 
 It was great to see Pete again! I drove to Geneva, a little worn out by heavy

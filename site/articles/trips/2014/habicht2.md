@@ -2,6 +2,7 @@
 title: Habicht with Danno
 date: 2014-10-19
 layout: post
+location: Habicht
 ---
 
 <a href='https://www.flickr.com/photos/55338612@N00/15582918731'>

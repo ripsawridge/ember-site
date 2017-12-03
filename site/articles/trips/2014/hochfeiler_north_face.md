@@ -2,6 +2,7 @@
 title: Hochfeiler North Face
 date: 2014-3-16
 layout: post
+location: Hochfeiler
 ---
 
 Georg was looking at the weather for the weekend, and saw that our long

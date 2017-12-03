@@ -3,6 +3,7 @@ title: Kleine Trichter (attempt)
 date: 2014-6-27
 blurb: with Lane
 layout: post
+location: Hoher Göll
 ---
 
 <a href="https://www.flickr.com/photos/ripsawridge/14556138345/">
