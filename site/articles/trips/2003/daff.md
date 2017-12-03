@@ -9,7 +9,7 @@ location: Daff Dome
 <h2>West Crack (5.9, II)</h2>
 <h3>June 21, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 
 Here's another 5 star Toulumne route to spoil you for rock elsewhere.

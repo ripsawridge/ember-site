@@ -25,49 +25,49 @@ and below that is a short day-to-day chronology for all the "non-climbing" stuff
 
 
 <tr>
-<td><a href=bearcreek.html>Bear Creek Spire</a></td>
+<td><a href=#/sections/trips/2003_bearcreek>Bear Creek Spire</a></td>
 <td>North Arete, 5.8</td>
 </tr>
 
 
 <tr>
-<td><a href=lembert.html>Lembert Dome</a></td>
+<td><a href=#/sections/trips/2003_lembert>Lembert Dome</a></td>
 <td>Northwest Books, 5.6</td>
 </tr>
 
 
 <tr>
-<td><a href=matthes.html>Matthes Crest</a></td>
+<td><a href=#/sections/trips/2003_matthes>Matthes Crest</a></td>
 <td>Full traverse, 5.8</td>
 </tr>
 
 
 <tr>
-<td><a href=fairview.html>Fairview Dome</a></td>
+<td><a href=#/sections/trips/2003_fairview>Fairview Dome</a></td>
 <td>Regular Route, 5.9</td>
 </tr>
 
 
 <tr>
-<td><a href=catheichorn.html>Cathedral Peak</a></td>
+<td><a href=#/sections/trips/2003_catheichorn>Cathedral Peak</a></td>
 <td>and Eichorn Pinnacle</td>
 </tr>
 
 
 <tr>
-<td><a href=daff.html>DAFF Dome</a></td>
+<td><a href=#/sections/trips/2003_daff>DAFF Dome</a></td>
 <td>West Crack, 5.9</td>
 </tr>
 
 
 <tr>
-<td><a href=gwbooks.html>Stately Pleasure Dome</a></td>
+<td><a href=#/sections/trips/2003_gwbooks>Stately Pleasure Dome</a></td>
 <td>Great White Books, 5.6</td>
 </tr>
 
 
 <tr>
-<td><a href=southcrk.html>Stately Pleasure Dome</a></td>
+<td><a href=#/sections/trips/2003_southcrk>Stately Pleasure Dome</a></td>
 <td>South Crack, 5.8</td>
 </tr>
 

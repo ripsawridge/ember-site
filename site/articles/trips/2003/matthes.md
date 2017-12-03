@@ -9,7 +9,7 @@ location: Matthes Crest
 <h2>Full South to North Traverse (5.8, IV)</h2>
 <h3>June 17, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 <i>Text by Aidan Haley</i>
 

@@ -2079,6 +2079,24 @@
 				</Point>
 			</Placemark>
 			<Placemark>
+				<name>Lake Moiry</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>7.583196697999267</longitude>
+					<latitude>46.11049703099852</latitude>
+					<altitude>0</altitude>
+					<heading>0.3657504444915203</heading>
+					<tilt>8.478947449561492</tilt>
+					<range>11488.59379221961</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>7.569430355253539,46.12073427988877,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
 				<name>Täschhorn</name>
 				<open>1</open>
 				<LookAt>
@@ -2458,25 +2476,6 @@
 		</Folder>
 		<Folder>
 			<name>Eastern Alps</name>
-			<Placemark>
-				<name>Torre Wundt</name>
-				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>12.28318018893197</longitude>
-					<latitude>46.58932175686053</latitude>
-					<altitude>0</altitude>
-					<heading>-6.574344129765398</heading>
-					<tilt>25.9204025954624</tilt>
-					<range>1173.116806338496</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>12.28681414712855,46.58866745220492,0</coordinates>
-				</Point>
-			</Placemark>
 			<Placemark>
 				<name>Breitenstein</name>
 				<LookAt>
@@ -2861,74 +2860,6 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Rosengartenspitze</name>
-				<LookAt>
-					<longitude>11.62574192164166</longitude>
-					<latitude>46.4633267413453</latitude>
-					<altitude>0</altitude>
-					<heading>2.414762196148375</heading>
-					<tilt>18.98826662890441</tilt>
-					<range>6799.313418981062</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.62079214596227,46.45428308947981,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Tofana des Rozes</name>
-				<LookAt>
-					<longitude>12.04734109084498</longitude>
-					<latitude>46.54077684845824</latitude>
-					<altitude>0</altitude>
-					<heading>2.721157474505727</heading>
-					<tilt>19.82351767189633</tilt>
-					<range>4254.34872783081</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>12.05050965612872,46.53698790522259,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Hexenstein</name>
-				<LookAt>
-					<longitude>11.99707019765135</longitude>
-					<latitude>46.52554880166422</latitude>
-					<altitude>0</altitude>
-					<heading>2.684660180890177</heading>
-					<tilt>28.55773301157858</tilt>
-					<range>3529.370604017648</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.99762488764417,46.51992717498466,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Cinque Torri</name>
-				<LookAt>
-					<longitude>12.0498613002268</longitude>
-					<latitude>46.51334836021174</latitude>
-					<altitude>0</altitude>
-					<heading>2.722925974635803</heading>
-					<tilt>38.08560542894955</tilt>
-					<range>1830.373163205172</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>12.05123896251908,46.50924667313087,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Pyramidenspitze</name>
 				<LookAt>
 					<longitude>12.26824356646457</longitude>
@@ -3048,23 +2979,6 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Monte Casale</name>
-				<LookAt>
-					<longitude>10.92827139988775</longitude>
-					<latitude>46.03104780002658</latitude>
-					<altitude>0</altitude>
-					<heading>-8.084333889343963e-11</heading>
-					<tilt>0</tilt>
-					<range>1000.000124886031</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.92827139988775,46.03104780002658,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Neue Pforzheimer Hütte</name>
 				<LookAt>
 					<longitude>11.07226219281997</longitude>
@@ -3113,23 +3027,6 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>12.80767367708421,47.59297603264612,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Lake Moiry</name>
-				<LookAt>
-					<longitude>7.583196697999267</longitude>
-					<latitude>46.11049703099852</latitude>
-					<altitude>0</altitude>
-					<heading>0.3657504444915203</heading>
-					<tilt>8.478947449561492</tilt>
-					<range>11488.59379221961</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>7.569430355253539,46.12073427988877,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -3198,23 +3095,6 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>11.16913119722935,47.13795749003928,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Grohmannspitze</name>
-				<LookAt>
-					<longitude>11.73514169362084</longitude>
-					<latitude>46.5104385609553</latitude>
-					<altitude>0</altitude>
-					<heading>-54.60691044619374</heading>
-					<tilt>55.19961931619668</tilt>
-					<range>939.5989512923005</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin1</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.73378466772912,46.51044864495201,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -3371,23 +3251,6 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Punta Fiames</name>
-				<LookAt>
-					<longitude>12.13254778347944</longitude>
-					<latitude>46.57531705745014</latitude>
-					<altitude>0</altitude>
-					<heading>-0.0001080132773202461</heading>
-					<tilt>26.21879690953168</tilt>
-					<range>1716.620909999338</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>12.13254778347944,46.57531705745014,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Hinterer Brunnenkogel</name>
 				<LookAt>
 					<longitude>11.10144480847825</longitude>
@@ -3419,23 +3282,6 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>10.37045537890302,47.5058555271598,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Fünffingerspitze</name>
-				<LookAt>
-					<longitude>11.73799174876592</longitude>
-					<latitude>46.51474858502248</latitude>
-					<altitude>0</altitude>
-					<heading>0.0001266718342766022</heading>
-					<tilt>11.48252313735213</tilt>
-					<range>966.6480030674048</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.73746167148929,46.51363089809962,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -3473,23 +3319,6 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Riva del Garda</name>
-				<LookAt>
-					<longitude>10.81814492512305</longitude>
-					<latitude>45.89310857741165</latitude>
-					<altitude>0</altitude>
-					<heading>0.1311596832517884</heading>
-					<tilt>0</tilt>
-					<range>22503.56643119497</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>10.84775251190029,45.88464893389966,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Laliderer Spitze</name>
 				<LookAt>
 					<longitude>11.50027689243172</longitude>
@@ -3521,40 +3350,6 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>10.11888279273539,46.84417527595448,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Sella Pass</name>
-				<LookAt>
-					<longitude>11.75827679678029</longitude>
-					<latitude>46.5091749999797</latitude>
-					<altitude>0</altitude>
-					<heading>-2.335877281656503e-09</heading>
-					<tilt>0</tilt>
-					<range>2618.069209406491</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.75827679678029,46.5091749999797,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Dürrenstein</name>
-				<LookAt>
-					<longitude>12.18405568457172</longitude>
-					<latitude>46.67238258595591</latitude>
-					<altitude>0</altitude>
-					<heading>-0.00128812580812166</heading>
-					<tilt>0</tilt>
-					<range>2411.321149301314</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>12.18506506503413,46.67281827069651,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -3657,57 +3452,6 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>11.09487209380243,47.13137352333922,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Pordoispitze</name>
-				<LookAt>
-					<longitude>11.80493424338113</longitude>
-					<latitude>46.50199833312504</latitude>
-					<altitude>0</altitude>
-					<heading>-0.00160370973689898</heading>
-					<tilt>0</tilt>
-					<range>3431.946004367687</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.80672944116368,46.50133637493698,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Sella Towers</name>
-				<LookAt>
-					<longitude>11.77618961614473</longitude>
-					<latitude>46.51426382001996</latitude>
-					<altitude>0</altitude>
-					<heading>-0.02245897440991077</heading>
-					<tilt>29.54186897969959</tilt>
-					<range>1736.180707569272</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.77521170240509,46.50948532258901,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Sas Ciampac</name>
-				<LookAt>
-					<longitude>11.83843283955789</longitude>
-					<latitude>46.56324128963779</latitude>
-					<altitude>0</altitude>
-					<heading>0.02270698347228206</heading>
-					<tilt>31.47248366703544</tilt>
-					<range>2407.432257224528</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.83577102577003,46.56305007068639,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -3881,23 +3625,6 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Drei Zinnen</name>
-				<LookAt>
-					<longitude>12.30012076067844</longitude>
-					<latitude>46.6186411173704</latitude>
-					<altitude>0</altitude>
-					<heading>-0.001920455563879245</heading>
-					<tilt>21.4389765884397</tilt>
-					<range>1437.899369935277</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>12.30272579998359,46.61837973222621,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Köfels</name>
 				<LookAt>
 					<longitude>10.90453587445464</longitude>
@@ -3946,57 +3673,6 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>11.05496249810349,47.0125990661001,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Langkofel</name>
-				<LookAt>
-					<longitude>11.73534698041552</longitude>
-					<latitude>46.54173779251413</latitude>
-					<altitude>0</altitude>
-					<heading>-0.34522349102923</heading>
-					<tilt>35.1605226521572</tilt>
-					<range>4321.096574024784</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.73597310131779,46.5247447440024,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Pala del Rifugio</name>
-				<LookAt>
-					<longitude>11.91011858762205</longitude>
-					<latitude>46.24025746666894</latitude>
-					<altitude>0</altitude>
-					<heading>0.004917191204050947</heading>
-					<tilt>16.0919704291134</tilt>
-					<range>1862.416707724545</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.9103219088755,46.23745318162429,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Paternkofel</name>
-				<LookAt>
-					<longitude>12.31375945446599</longitude>
-					<latitude>46.62658382468391</latitude>
-					<altitude>0</altitude>
-					<heading>0.008065042673284329</heading>
-					<tilt>21.43963418856015</tilt>
-					<range>2221.902568805132</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>12.31694073586873,46.6235893280387,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -4153,40 +3829,6 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Ciavazes</name>
-				<LookAt>
-					<longitude>11.78534394849058</longitude>
-					<latitude>46.50944199930136</latitude>
-					<altitude>0</altitude>
-					<heading>-0.01590204785801281</heading>
-					<tilt>48.89821676368472</tilt>
-					<range>1141.385990352536</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.78438836967508,46.50898745240675,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Vajolet Towers</name>
-				<LookAt>
-					<longitude>11.62383641890902</longitude>
-					<latitude>46.46326583033082</latitude>
-					<altitude>0</altitude>
-					<heading>-0.1329517307647468</heading>
-					<tilt>27.05703717469105</tilt>
-					<range>2531.489920504078</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.62345034066395,46.46006694197775,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Lake Bled</name>
 				<LookAt>
 					<longitude>14.08970756037331</longitude>
@@ -4252,23 +3894,6 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>11.06247092778649,47.00266011699163,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Salamiturm</name>
-				<LookAt>
-					<longitude>11.72687310847728</longitude>
-					<latitude>46.53881176346083</latitude>
-					<altitude>0</altitude>
-					<heading>2.512757397099876</heading>
-					<tilt>26.83079396127949</tilt>
-					<range>4222.177476002106</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.73078181040344,46.52727410967654,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -4405,23 +4030,6 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>10.7264592568459,46.79777914682025,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Sankt Christina</name>
-				<LookAt>
-					<longitude>11.72987411532862</longitude>
-					<latitude>46.55765995374144</latitude>
-					<altitude>0</altitude>
-					<heading>0.7247341118546919</heading>
-					<tilt>24.75887303257887</tilt>
-					<range>4042.391804547346</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin2</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.71997225068092,46.55797433388418,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -4612,23 +4220,6 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Wolkenstein</name>
-				<LookAt>
-					<longitude>11.7592097010301</longitude>
-					<latitude>46.56178665857845</latitude>
-					<altitude>0</altitude>
-					<heading>0.4699185242781025</heading>
-					<tilt>23.01186398445941</tilt>
-					<range>4248.859140431259</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.75394784271321,46.55696881288266,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Habicht</name>
 				<LookAt>
 					<longitude>11.28831679356699</longitude>
@@ -4816,23 +4407,6 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Tridentina Klettersteig</name>
-				<LookAt>
-					<longitude>11.81699199659144</longitude>
-					<latitude>46.55088651035683</latitude>
-					<altitude>0</altitude>
-					<heading>4.00994359611419</heading>
-					<tilt>41.35450126809102</tilt>
-					<range>2399.364935423535</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#m_ylw-pushpin</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.81646207289839,46.54177822267695,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Voldöpperspitze</name>
 				<LookAt>
 					<longitude>11.87997478282037</longitude>
@@ -4958,44 +4532,6 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Seiser Alm</name>
-				<LookAt>
-					<gx:TimeStamp><when>2016-06-23T05:12:09Z</when>
-</gx:TimeStamp>
-					<longitude>11.6389293633265</longitude>
-					<latitude>46.54825011982615</latitude>
-					<altitude>0</altitude>
-					<heading>0.9845358069930339</heading>
-					<tilt>24.30853366900733</tilt>
-					<range>3487.544628643567</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.63231534754842,46.54445331426323,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Schlern</name>
-				<LookAt>
-					<gx:TimeStamp><when>2016-06-23T05:12:09Z</when>
-</gx:TimeStamp>
-					<longitude>11.57613526591039</longitude>
-					<latitude>46.51842079492312</latitude>
-					<altitude>0</altitude>
-					<heading>0.9389967531764064</heading>
-					<tilt>32.48604821220748</tilt>
-					<range>2691.234279726321</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.57473919130241,46.51162390086438,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
 				<name>Hohes Brett</name>
 				<LookAt>
 					<gx:TimeStamp><when>2016-06-23T05:12:09Z</when>
@@ -5012,82 +4548,6 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>13.04875510236235,47.58422177180744,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Stevia</name>
-				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>11.76733372074822</longitude>
-					<latitude>46.58751758849704</latitude>
-					<altitude>0</altitude>
-					<heading>12.65538878148618</heading>
-					<tilt>52.99265044969059</tilt>
-					<range>1506.421269091253</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.76520044856578,46.57942940649932,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Col Rosa</name>
-				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>12.07885239901208</longitude>
-					<latitude>46.60852388936033</latitude>
-					<altitude>0</altitude>
-					<heading>-6.722684862962238</heading>
-					<tilt>31.69988007880597</tilt>
-					<range>1716.195407072873</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>12.08137966439515,46.60391400764117,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Falzarego Towers</name>
-				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>12.02207438824375</longitude>
-					<latitude>46.52596657233469</latitude>
-					<altitude>0</altitude>
-					<heading>-6.763909319056232</heading>
-					<tilt>24.92354591400132</tilt>
-					<range>1605.249883614627</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>12.02303305309195,46.52474548600506,0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<name>Gran Pilaster</name>
-				<LookAt>
-					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
-</gx:TimeStamp>
-					<longitude>11.82900798219642</longitude>
-					<latitude>46.2665046721921</latitude>
-					<altitude>0</altitude>
-					<heading>-0.0392080386033363</heading>
-					<tilt>28.65445986991192</tilt>
-					<range>1471.872269315458</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
-				<styleUrl>#msn_ylw-pushpin</styleUrl>
-				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
-					<coordinates>11.8313305563737,46.26302661453036,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -5653,6 +5113,572 @@
 				<Point>
 					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>-120.186094517857,49.02626729072076,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Dolomites</name>
+			<Placemark>
+				<name>Sankt Christina</name>
+				<LookAt>
+					<longitude>11.72987411532862</longitude>
+					<latitude>46.55765995374144</latitude>
+					<altitude>0</altitude>
+					<heading>0.7247341118546919</heading>
+					<tilt>24.75887303257887</tilt>
+					<range>4042.391804547346</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.71997225068092,46.55797433388418,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Schlern</name>
+				<open>1</open>
+				<LookAt>
+					<gx:TimeStamp><when>2016-06-23T05:12:09Z</when>
+</gx:TimeStamp>
+					<longitude>11.57613526591039</longitude>
+					<latitude>46.51842079492312</latitude>
+					<altitude>0</altitude>
+					<heading>0.9389967531764064</heading>
+					<tilt>32.48604821220748</tilt>
+					<range>2691.234279726321</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.57473919130241,46.51162390086438,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wolkenstein</name>
+				<LookAt>
+					<longitude>11.7592097010301</longitude>
+					<latitude>46.56178665857845</latitude>
+					<altitude>0</altitude>
+					<heading>0.4699185242781025</heading>
+					<tilt>23.01186398445941</tilt>
+					<range>4248.859140431259</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.75394784271321,46.55696881288266,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grohmannspitze</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>11.73514169362084</longitude>
+					<latitude>46.5104385609553</latitude>
+					<altitude>0</altitude>
+					<heading>-54.60691044619374</heading>
+					<tilt>55.19961931619668</tilt>
+					<range>939.5989512923005</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.73378466772912,46.51044864495201,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Drei Zinnen</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>12.30012076067844</longitude>
+					<latitude>46.6186411173704</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001920455563879245</heading>
+					<tilt>21.4389765884397</tilt>
+					<range>1437.899369935277</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.30272579998359,46.61837973222621,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fünffingerspitze</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>11.73799174876592</longitude>
+					<latitude>46.51474858502248</latitude>
+					<altitude>0</altitude>
+					<heading>0.0001266718342766022</heading>
+					<tilt>11.48252313735213</tilt>
+					<range>966.6480030674048</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.73746167148929,46.51363089809962,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Langkofel</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>11.73534698041552</longitude>
+					<latitude>46.54173779251413</latitude>
+					<altitude>0</altitude>
+					<heading>-0.34522349102923</heading>
+					<tilt>35.1605226521572</tilt>
+					<range>4321.096574024784</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.73597310131779,46.5247447440024,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Punta Fiames</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>12.13254778347944</longitude>
+					<latitude>46.57531705745014</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0001080132773202461</heading>
+					<tilt>26.21879690953168</tilt>
+					<range>1716.620909999338</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.13254778347944,46.57531705745014,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Paternkofel</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>12.31375945446599</longitude>
+					<latitude>46.62658382468391</latitude>
+					<altitude>0</altitude>
+					<heading>0.008065042673284329</heading>
+					<tilt>21.43963418856015</tilt>
+					<range>2221.902568805132</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.31694073586873,46.6235893280387,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hexenstein</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>11.99707019765135</longitude>
+					<latitude>46.52554880166422</latitude>
+					<altitude>0</altitude>
+					<heading>2.684660180890177</heading>
+					<tilt>28.55773301157858</tilt>
+					<range>3529.370604017648</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.99762488764417,46.51992717498466,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tofana des Rozes</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>12.04734109084498</longitude>
+					<latitude>46.54077684845824</latitude>
+					<altitude>0</altitude>
+					<heading>2.721157474505727</heading>
+					<tilt>19.82351767189633</tilt>
+					<range>4254.34872783081</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.05050965612872,46.53698790522259,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Torre Wundt</name>
+				<open>1</open>
+				<LookAt>
+					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
+</gx:TimeStamp>
+					<longitude>12.28318018893197</longitude>
+					<latitude>46.58932175686053</latitude>
+					<altitude>0</altitude>
+					<heading>-6.574344129765398</heading>
+					<tilt>25.9204025954624</tilt>
+					<range>1173.116806338496</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.28681414712855,46.58866745220492,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cinque Torri</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>12.0498613002268</longitude>
+					<latitude>46.51334836021174</latitude>
+					<altitude>0</altitude>
+					<heading>2.722925974635803</heading>
+					<tilt>38.08560542894955</tilt>
+					<range>1830.373163205172</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.05123896251908,46.50924667313087,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ciavazes</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>11.78534394849058</longitude>
+					<latitude>46.50944199930136</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01590204785801281</heading>
+					<tilt>48.89821676368472</tilt>
+					<range>1141.385990352536</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.78438836967508,46.50898745240675,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dürrenstein</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>12.18405568457172</longitude>
+					<latitude>46.67238258595591</latitude>
+					<altitude>0</altitude>
+					<heading>-0.00128812580812166</heading>
+					<tilt>0</tilt>
+					<range>2411.321149301314</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.18506506503413,46.67281827069651,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rosengartenspitze</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>11.62574192164166</longitude>
+					<latitude>46.4633267413453</latitude>
+					<altitude>0</altitude>
+					<heading>2.414762196148375</heading>
+					<tilt>18.98826662890441</tilt>
+					<range>6799.313418981062</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.62079214596227,46.45428308947981,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tridentina Klettersteig</name>
+				<LookAt>
+					<longitude>11.81699199659144</longitude>
+					<latitude>46.55088651035683</latitude>
+					<altitude>0</altitude>
+					<heading>4.00994359611419</heading>
+					<tilt>41.35450126809102</tilt>
+					<range>2399.364935423535</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.81646207289839,46.54177822267695,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Monte Casale</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>10.92827139988775</longitude>
+					<latitude>46.03104780002658</latitude>
+					<altitude>0</altitude>
+					<heading>-8.084333889343963e-11</heading>
+					<tilt>0</tilt>
+					<range>1000.000124886031</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>10.92827139988775,46.03104780002658,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Salamiturm</name>
+				<LookAt>
+					<longitude>11.72687310847728</longitude>
+					<latitude>46.53881176346083</latitude>
+					<altitude>0</altitude>
+					<heading>2.512757397099876</heading>
+					<tilt>26.83079396127949</tilt>
+					<range>4222.177476002106</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.73078181040344,46.52727410967654,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Riva del Garda</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>10.81814492512305</longitude>
+					<latitude>45.89310857741165</latitude>
+					<altitude>0</altitude>
+					<heading>0.1311596832517884</heading>
+					<tilt>0</tilt>
+					<range>22503.56643119497</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>10.84775251190029,45.88464893389966,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sas Ciampac</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>11.83843283955789</longitude>
+					<latitude>46.56324128963779</latitude>
+					<altitude>0</altitude>
+					<heading>0.02270698347228206</heading>
+					<tilt>31.47248366703544</tilt>
+					<range>2407.432257224528</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.83577102577003,46.56305007068639,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sella Pass</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>11.75827679678029</longitude>
+					<latitude>46.5091749999797</latitude>
+					<altitude>0</altitude>
+					<heading>-2.335877281656503e-09</heading>
+					<tilt>0</tilt>
+					<range>2618.069209406491</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.75827679678029,46.5091749999797,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pala del Rifugio</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>11.91011858762205</longitude>
+					<latitude>46.24025746666894</latitude>
+					<altitude>0</altitude>
+					<heading>0.004917191204050947</heading>
+					<tilt>16.0919704291134</tilt>
+					<range>1862.416707724545</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.9103219088755,46.23745318162429,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vajolet Towers</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>11.62383641890902</longitude>
+					<latitude>46.46326583033082</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1329517307647468</heading>
+					<tilt>27.05703717469105</tilt>
+					<range>2531.489920504078</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.62345034066395,46.46006694197775,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pordoispitze</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>11.80493424338113</longitude>
+					<latitude>46.50199833312504</latitude>
+					<altitude>0</altitude>
+					<heading>-0.00160370973689898</heading>
+					<tilt>0</tilt>
+					<range>3431.946004367687</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.80672944116368,46.50133637493698,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Seiser Alm</name>
+				<LookAt>
+					<gx:TimeStamp><when>2016-06-23T05:12:09Z</when>
+</gx:TimeStamp>
+					<longitude>11.6389293633265</longitude>
+					<latitude>46.54825011982615</latitude>
+					<altitude>0</altitude>
+					<heading>0.9845358069930339</heading>
+					<tilt>24.30853366900733</tilt>
+					<range>3487.544628643567</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.63231534754842,46.54445331426323,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sella Towers</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>11.77618961614473</longitude>
+					<latitude>46.51426382001996</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02245897440991077</heading>
+					<tilt>29.54186897969959</tilt>
+					<range>1736.180707569272</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.77521170240509,46.50948532258901,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Gran Pilaster</name>
+				<LookAt>
+					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
+</gx:TimeStamp>
+					<longitude>11.82900798219642</longitude>
+					<latitude>46.2665046721921</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0392080386033363</heading>
+					<tilt>28.65445986991192</tilt>
+					<range>1471.872269315458</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.8313305563737,46.26302661453036,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Col Rosa</name>
+				<LookAt>
+					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
+</gx:TimeStamp>
+					<longitude>12.07885239901208</longitude>
+					<latitude>46.60852388936033</latitude>
+					<altitude>0</altitude>
+					<heading>-6.722684862962238</heading>
+					<tilt>31.69988007880597</tilt>
+					<range>1716.195407072873</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.08137966439515,46.60391400764117,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stevia</name>
+				<LookAt>
+					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
+</gx:TimeStamp>
+					<longitude>11.76733372074822</longitude>
+					<latitude>46.58751758849704</latitude>
+					<altitude>0</altitude>
+					<heading>12.65538878148618</heading>
+					<tilt>52.99265044969059</tilt>
+					<range>1506.421269091253</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>11.76520044856578,46.57942940649932,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Falzarego Towers</name>
+				<LookAt>
+					<gx:TimeStamp><when>2017-03-04T13:10:04Z</when>
+</gx:TimeStamp>
+					<longitude>12.02207438824375</longitude>
+					<latitude>46.52596657233469</latitude>
+					<altitude>0</altitude>
+					<heading>-6.763909319056232</heading>
+					<tilt>24.92354591400132</tilt>
+					<range>1605.249883614627</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>12.02303305309195,46.52474548600506,0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>

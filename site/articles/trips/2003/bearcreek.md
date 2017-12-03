@@ -9,7 +9,7 @@ location: Bear Creek Spire
 <h2>North Arete (5.8, Grade III)</h2>
 <h3>June 15, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 We got up at dawn and starting walking in to one of the greatest climbs
 of the summer! A pleasant walk by several lakes eventually led to

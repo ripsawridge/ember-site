@@ -9,7 +9,7 @@ location: Cathedral Peak
 <h2>Southeast Buttress (5.6), also Eichorn Pinnacle</h2>
 <h3>June 20, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 
 From the guidebook, "Cathedral Peak is not only the most striking peak

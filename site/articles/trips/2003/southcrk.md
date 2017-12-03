@@ -9,7 +9,7 @@ location: Tuolumne Meadows
 <h2>South Crack, Grade II, 5.8 R</h2>
 <h3>June 22, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 Well, it was our last day for climbing, sigh. We'd had such a great time.
 South Crack is a classic, awesome route with some great 5.8 finger cracks.

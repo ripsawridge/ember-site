@@ -9,7 +9,7 @@ location: Lembert Dome
 <h2>Great White Books (5.6 R, Grade II)</h2>
 <h3>June 21, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 After climbing Daff Dome, we still had the afternoon free.
 We decided to finally visit Stately Pleasure Dome and climb an easy route.

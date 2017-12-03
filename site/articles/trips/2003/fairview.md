@@ -9,7 +9,7 @@ location: Fairview Dome
 <h2>North Face (Regular Route) (5.9, IV)</h2>
 <h3>June 18, 2003</h3>
 
-_back to [Sierras](cali.html)..._
+*back to [Sierras](#/sections/trips/2003_cali)...*
 
 <i>Text by Aidan Haley</i>
 
