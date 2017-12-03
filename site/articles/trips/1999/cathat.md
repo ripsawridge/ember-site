@@ -2,6 +2,7 @@
 title: Red Rocks "Cat in the Hat"
 date: 1999-10-30
 layout: post
+location: Red Rocks
 ---
 
 * Grade II-III, 5.6+, 5 pitches

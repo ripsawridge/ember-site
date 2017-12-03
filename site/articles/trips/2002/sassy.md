@@ -2,6 +2,7 @@
 title: Langkofel North Ridge
 date: 2002-8-30
 layout: post
+location: Langkofel
 ---
 
 * North Ridge (5.6, 20+ pitches)

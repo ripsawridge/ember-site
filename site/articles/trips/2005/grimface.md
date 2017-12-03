@@ -2,6 +2,7 @@
 title: Matriarch-Grimface Traverse
 date: 2005-8-18
 layout: post
+location: Grimface Mountain
 ---
 
 <h2>Grade III, 5.7</h2>

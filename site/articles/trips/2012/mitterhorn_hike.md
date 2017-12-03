@@ -2,6 +2,7 @@
 title: Mitterhorn hike
 date: 2012-9-9
 layout: post
+location: Mitterhorn
 ---
 
 [![](http://farm9.static.flickr.com/8042/7957294562_f15da14ff9.jpg)](http://www.flickr.com/photos/ripsawridge/7957294562/)

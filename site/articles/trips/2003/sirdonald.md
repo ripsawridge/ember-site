@@ -3,6 +3,7 @@ title: Mount Sir Donald, NE Arete
 date: 2003-8-23
 blurb: with Mark, Robert
 layout: post
+location: Mount Sir Donald
 ---
 
 <h2>Northeast Arete (5.5)</h2>

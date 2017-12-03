@@ -2,6 +2,7 @@
 title: Middle Cathedral Rock+East Buttress
 date: 1999-06-20
 layout: post
+location: Yosemite
 ---
 
 * The East Buttress (5.9, A0)

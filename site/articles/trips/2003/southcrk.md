@@ -3,6 +3,7 @@ title: Stately Pleasure Dome South Crack
 date: 2003-6-22
 report: no
 layout: post
+location: Tuolumne Meadows
 ---
 
 <h2>South Crack, Grade II, 5.8 R</h2>

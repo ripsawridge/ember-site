@@ -2,6 +2,7 @@
 title: Half Dome "Snake Dike"
 date: 1999-06-18
 layout: post
+location: Yosemite
 ---
 
 * The Snake Dike (5.7, III)

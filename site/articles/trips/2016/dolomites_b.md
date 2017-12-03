@@ -6,6 +6,7 @@ layout: post
 location:
   - Cinque Torri
   - Hexenstein
+  - Falzarego Towers
 ---
 
 <a href='https://www.flickr.com/photos/55338612@N00/28470757324'>

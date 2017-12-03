@@ -3,6 +3,7 @@ title: Smith Rocks
 date: 1999-03-20
 blurb: first climbing trip there
 layout: post
+location: Smith Rocks
 ---
 
 * March 20-21, 1999

@@ -3,6 +3,7 @@ title: Three O'Clock Rock
 date: 2002-12-1
 blurb: Silent Running (5.10b)
 layout: post
+location: Darrington
 ---
 
 * Silent Running (5.10b)

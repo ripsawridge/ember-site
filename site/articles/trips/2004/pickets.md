@@ -3,7 +3,10 @@ title: Pickets Range Traverse
 date: 2004-8-7
 blurb: Challenger, Fury and Terror
 layout: post
-location: Mount Fury
+location: 
+  - Mount Fury
+  - Mount Challenger
+  - Mount Terror
 ---
 
 * [Maps](pickets_maps.html)

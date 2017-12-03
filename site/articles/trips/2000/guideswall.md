@@ -2,6 +2,7 @@
 title: Storm Point, Guide's Wall
 date: 2000-8-6
 layout: post
+location: Storm Point
 ---
 
 August 6, 2000

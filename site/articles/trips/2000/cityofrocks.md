@@ -3,6 +3,7 @@ title: City of Rocks
 date: 2000-8-11
 blurb: on the Tetons trip
 layout: post
+location: City of Rocks
 ---
 
 * August 11-13, 2000

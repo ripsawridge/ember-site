@@ -3,6 +3,7 @@ title: Lembert Dome
 date: 2003-6-16
 report: no
 layout: post
+location: Lembert Dome
 ---
 
 <h2>Northwest Books (5.6)</h2>

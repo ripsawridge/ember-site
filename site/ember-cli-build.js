@@ -43,7 +43,6 @@ module.exports = function(defaults) {
   // modules that you would like to import into your application
   // please specify an object with the list of modules as keys
   // along with the exports of each module as its value.
-  
 
   var loadFile = function (ymlName) {
     var data = fs.readFileSync(ymlName, "utf8");
@@ -66,6 +65,9 @@ module.exports = function(defaults) {
     blogPost.blurb = doc.blurb;
     blogPost.location = doc.location;
 
+    if (!doc.location) {
+      console.log(ymlName + " doesn't have a location");
+    }
     // identify the content after the divider character as
     // the blogPost.description written in Markdown
     blogPost.description = marked(data.substr(dividerPos + 4));
@@ -75,7 +77,7 @@ module.exports = function(defaults) {
   var convertProjectsFiles = function(root_folder) {
     var index = [];
     var ymls = glob(root_folder + '/**/*.md', {sync: true});
-    
+
     console.log("Converting " + ymls.length + " files");
 
     ymls.forEach(function (ymlName) {
@@ -84,7 +86,7 @@ module.exports = function(defaults) {
         var fileName = ymlName.replace(root_folder + '/', '')
             .replace('/','_')
             .replace('.md', '');
-        fs.writeFileSync('public/' + root_folder + '/' + fileName + '.json', 
+        fs.writeFileSync('public/' + root_folder + '/' + fileName + '.json',
                          JSON.stringify(project));
         // Store summary for index
         index.push(
@@ -96,7 +98,7 @@ module.exports = function(defaults) {
               slug: fileName
             });
     });
-    
+
     // sort index file by date.
     index.sort((a, b) =>
         {
@@ -114,7 +116,7 @@ module.exports = function(defaults) {
     var kml = fs.readFileSync(input_kml);
     var json = xml2json.toJson(kml, { object: true });
     var maps = json.kml.Document.Folder.Folder; // the locations folder.
-    // There should be two maps, one for the northwest, one for europe.
+    // There should be several map folders.
     let data = [];
     maps.forEach((map) => {
       map.Placemark.forEach((placemark) => {
@@ -125,12 +127,12 @@ module.exports = function(defaults) {
           map_name: map.name
         };
         // Associate the trips made at this location.
-        let trips = trip_index.filter((trip) => { 
+        let trips = trip_index.filter((trip) => {
           if (Array.isArray(trip.location)) {
             // A trip may contain multiple locations.
             return trip.location.includes(obj.name);
           }
-          return trip.location == obj.name; 
+          return trip.location == obj.name;
         });
         if (trips.length > 0) {
           // Why put a location on the map if there are no associated trips?

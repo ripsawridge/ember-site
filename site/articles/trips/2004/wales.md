@@ -3,6 +3,9 @@ title: The Brecon Beacons, Wales
 date: 2004-8-20
 blurb: adventuresome day hike
 layout: post
+location: 
+  - Sugar Loaf
+  - Talgarth
 ---
 
 <h2>Northern Traverse</h2>

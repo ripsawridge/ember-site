@@ -2,6 +2,7 @@
 title: Mount Teewinot
 date: 2000-8-7
 layout: post
+location: Teewinot Mountain
 ---
 
 * Mt. Teewinot, East Face

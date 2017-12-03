@@ -3,6 +3,7 @@ title: Great White Books
 date: 2003-6-21
 report: no
 layout: post
+location: Lembert Dome
 ---
 
 <h2>Great White Books (5.6 R, Grade II)</h2>

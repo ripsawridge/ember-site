@@ -3,6 +3,11 @@ title: The Ptarmigan Traverse
 date: 2003-8-13
 blurb: 6 days, with Theron
 layout: post
+location:
+  - Mount Formidable
+  - Old Guard Peak
+  - Spire Point
+  - Dome Peak
 ---
 
 <i>Theron Welch's account is

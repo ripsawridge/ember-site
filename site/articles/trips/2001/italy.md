@@ -2,6 +2,11 @@
 title: The Dolomites, Italy
 date: 2001-6-15
 layout: post
+location:
+  - Cinque Torri
+  - Torre Wundt
+  - Col Rosa
+  - Falzarego Towers
 ---
 
 * June/July, 2001

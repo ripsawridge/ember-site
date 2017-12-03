@@ -3,6 +3,7 @@ title: Fairview Dome
 date: 2003-6-18
 report: no
 layout: post
+location: Fairview Dome
 ---
 
 <h2>North Face (Regular Route) (5.9, IV)</h2>

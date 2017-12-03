@@ -3,6 +3,11 @@ title: The Bugaboos
 date: 2003-8-10
 blurb: with Mark, Robert
 layout: post
+location: 
+  - Snowpatch Spire
+  - Bugaboo Spire
+  - Pigeon Spire
+  - Eastpost Spire
 ---
 
 * Robert Meshew, Mark Pratt, Michael Stanton
@@ -143,7 +148,7 @@ sandy scree slopes. Eventually things levelled out.
 
 
 Mark got the nickname "Silent Sentinel" for his habit of getting so far 
-ahead, then just  when you think "where the *##@ is he?" you see him 
+ahead, then just  when you think "where the hell is he?" you see him 
 staring at you expressionlessly from a  nearby perch. Before you can catch 
 your breath - he is gone again!
 

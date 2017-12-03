@@ -2,6 +2,7 @@
 title: The Grand Teton, Exum Ridge
 date: 2000-8-10
 layout: post
+location: Grand Teton
 ---
 
 The alarm was loud, almost horrifying. Not that we slept much. But we were going

@@ -3,6 +3,7 @@ title: Smith Rocks
 date: 2000-4-8
 blurb: with Kris and Steve
 layout: post
+location: Smith Rocks
 ---
 
 * April 8-9, 2000
