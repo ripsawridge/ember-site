@@ -1,10 +1,11 @@
-{{#leaflet-map lat=lat lng=lng zoom=zoom minZoom=2 maxZoom=18 as |layers|}}
+{{#leaflet-map lat=lat lng=lng zoom=zoom minZoom=2 maxZoom=18
+    scrollWheelZoom=false as |layers|}}
   {{layers.tile url=tileserver}}
   {{#marker-cluster-layer}}
     {{#each model as |loc|}}
       {{#marker-layer location=loc.location}}
         {{#popup-layer}}
-          <h3>{{loc.name}}</h3>
+          <h3 style="color: black">{{loc.name}}</h3>
             <ul>
               {{#each loc.trips as |trip|}}
                 <li>{{#link-to 'sections.trip' trip.slug}}

@@ -49,7 +49,10 @@
                 I'm experimenting with mapping my trip locations, you can check that out
                 {{#link-to 'pages.locations'}}here{{/link-to}}.
             </p>
-
+            {{#trip-map lat=46.800604 lng=11.174361 zoom=6
+                  model=locations}}
+            {{/trip-map}}
+ 
             <hr class="border-top-soft-dark-gray">
         
         <div class="report-list">
@@ -58,7 +61,7 @@
                     <tr> <td>Date</td> <td>Where</td> <td>Notes</td> </tr>
                 </thead>
                 <tbody>
-                    {{#each model as |trip|}}
+                    {{#each trips as |trip|}}
                       {{#if trip.report}}
                       {{else}}
                         <tr>
