@@ -1,18 +1,21 @@
-{{#leaflet-map lat=lat lng=lng zoom=zoom}}
-  {{tile-layer url=tileserver}}
-  {{#each model as |loc|}}
-    {{#marker-layer location=loc.location}}
-      {{#popup-layer}}
-        <h3>{{loc.name}}</h3>
-          <ul>
-            {{#each loc.trips as |trip|}}
-              <li>{{#link-to 'sections.trip' trip.slug}}
-                    {{trip.title}}
-                  {{/link-to}} ({{date-mmyyyy trip.date}})
-              </li>
-            {{/each}}
-          </ul>
-      {{/popup-layer}}
-    {{/marker-layer}}
-  {{/each}}
+{{#leaflet-map lat=lat lng=lng zoom=zoom minZoom=2 maxZoom=18 as |layers|}}
+  {{layers.tile url=tileserver}}
+  {{#marker-cluster-layer}}
+    {{#each model as |loc|}}
+      {{#marker-layer location=loc.location}}
+        {{#popup-layer}}
+          <h3>{{loc.name}}</h3>
+            <ul>
+              {{#each loc.trips as |trip|}}
+                <li>{{#link-to 'sections.trip' trip.slug}}
+                      {{trip.title}}
+                    {{/link-to}} ({{date-mmyyyy trip.date}})
+                </li>
+              {{/each}}
+            </ul>
+            {{yield}}
+        {{/popup-layer}}
+      {{/marker-layer}}
+    {{/each}}
+  {{/marker-cluster-layer}}
 {{/leaflet-map}}
