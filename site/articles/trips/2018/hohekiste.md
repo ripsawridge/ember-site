@@ -1,6 +1,6 @@
 
 ---
-title: Wendelstein winter hike
+title: Hohe Kiste attempt
 date: 2018-1-06
 blurb:
 layout: post
